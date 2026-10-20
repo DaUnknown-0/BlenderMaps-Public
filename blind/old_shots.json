@@ -1,0 +1,182 @@
+[
+ {
+  "name": "00_skeld_Cafeteria",
+  "query": "?map=skeld",
+  "x": -0.91,
+  "y": -3.12,
+  "yaw": 0,
+  "pitch": -6,
+  "wait": 900
+ },
+ {
+  "name": "01_skeld_Medical",
+  "query": "?map=skeld",
+  "x": -9.39,
+  "y": -5.02,
+  "yaw": 0,
+  "pitch": -6,
+  "wait": 900
+ },
+ {
+  "name": "02_skeld_Storage",
+  "query": "?map=skeld",
+  "x": -1.63,
+  "y": -16.24,
+  "yaw": 0,
+  "pitch": -6,
+  "wait": 900
+ },
+ {
+  "name": "03_skeld_Weapons",
+  "query": "?map=skeld",
+  "x": 9.49,
+  "y": -1.06,
+  "yaw": 0,
+  "pitch": -6,
+  "wait": 900
+ },
+ {
+  "name": "04_mira_Cafe",
+  "query": "?map=mira",
+  "x": 23.23,
+  "y": 0.29,
+  "yaw": 0,
+  "pitch": -6,
+  "wait": 900
+ },
+ {
+  "name": "05_mira_Laboratory",
+  "query": "?map=mira",
+  "x": 7.66,
+  "y": 10.4,
+  "yaw": 0,
+  "pitch": -6,
+  "wait": 900
+ },
+ {
+  "name": "06_mira_Reactor",
+  "query": "?map=mira",
+  "x": 2.85,
+  "y": 10.48,
+  "yaw": 0,
+  "pitch": -6,
+  "wait": 900
+ },
+ {
+  "name": "07_mira_Office",
+  "query": "?map=mira",
+  "x": 15.62,
+  "y": 17.4,
+  "yaw": 0,
+  "pitch": -6,
+  "wait": 900
+ },
+ {
+  "name": "08_polus_Office",
+  "query": "?map=polus",
+  "x": 22.28,
+  "y": -18.18,
+  "yaw": 0,
+  "pitch": -6,
+  "wait": 900
+ },
+ {
+  "name": "09_polus_Science",
+  "query": "?map=polus",
+  "x": 28.73,
+  "y": -10.04,
+  "yaw": 0,
+  "pitch": -6,
+  "wait": 900
+ },
+ {
+  "name": "10_polus_LifeSupport",
+  "query": "?map=polus",
+  "x": 2.51,
+  "y": -21.87,
+  "yaw": 0,
+  "pitch": -6,
+  "wait": 900
+ },
+ {
+  "name": "11_polus_Electrical",
+  "query": "?map=polus",
+  "x": 5.43,
+  "y": -13.13,
+  "yaw": 0,
+  "pitch": -6,
+  "wait": 900
+ },
+ {
+  "name": "12_airship_Vault",
+  "query": "?map=airship",
+  "x": -8.72,
+  "y": 5.9,
+  "yaw": 0,
+  "pitch": -6,
+  "wait": 900
+ },
+ {
+  "name": "13_airship_Kitchen",
+  "query": "?map=airship",
+  "x": -6.93,
+  "y": -11.94,
+  "yaw": 0,
+  "pitch": -6,
+  "wait": 900
+ },
+ {
+  "name": "14_airship_Records",
+  "query": "?map=airship",
+  "x": 19.88,
+  "y": 6.5,
+  "yaw": 0,
+  "pitch": -6,
+  "wait": 900
+ },
+ {
+  "name": "15_airship_Engine",
+  "query": "?map=airship",
+  "x": -2.92,
+  "y": -1.64,
+  "yaw": 0,
+  "pitch": -6,
+  "wait": 900
+ },
+ {
+  "name": "16_fungle_Cafeteria",
+  "query": "?map=fungle",
+  "x": -16.45,
+  "y": 4.78,
+  "yaw": 0,
+  "pitch": -6,
+  "wait": 900
+ },
+ {
+  "name": "17_fungle_Greenhouse",
+  "query": "?map=fungle",
+  "x": 10.11,
+  "y": -12.62,
+  "yaw": 0,
+  "pitch": -6,
+  "wait": 900
+ },
+ {
+  "name": "18_fungle_Laboratory",
+  "query": "?map=fungle",
+  "x": -3.86,
+  "y": -10.92,
+  "yaw": 0,
+  "pitch": -6,
+  "wait": 900
+ },
+ {
+  "name": "19_fungle_Kitchen",
+  "query": "?map=fungle",
+  "x": -15.06,
+  "y": -9.82,
+  "yaw": 0,
+  "pitch": -6,
+  "wait": 900
+ }
+]

@@ -1,0 +1,22 @@
+# Zwischenstaende und Caches (alles aus den Quellen neu erzeugbar)
+__pycache__/
+*.pyc
+out/*/tex/
+out/*/cmp/
+out/*/nf/
+out/*/*.blend
+out/*/*.blend1
+out/*/base.png
+out/*/clean.png
+out/*/atlas52.png
+out/*/scene.json
+out/*.log
+blind/old/
+blind/new/
+blind/ee/
+blind/set/
+blind/set2/
+blind/atl/
+
+# lokale Einstellungen (optionale Erweiterungen, bm_ext.py)
+bm_local.json

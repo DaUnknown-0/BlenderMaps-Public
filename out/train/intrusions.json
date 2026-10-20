@@ -1,0 +1,1272 @@
+[
+ {
+  "mesh": "train_interior",
+  "mat": "train_plate",
+  "area": 175.265,
+  "depth": 4.64,
+  "at": [
+   -1.19,
+   2.09
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_cab_steel",
+  "area": 2.241,
+  "depth": 0.6,
+  "at": [
+   24.39,
+   3.17
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_tel_t_top",
+  "area": 1.26,
+  "depth": 0.7,
+  "at": [
+   0.2,
+   1.45
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_office_desk_body",
+  "area": 0.957,
+  "depth": 0.43,
+  "at": [
+   -24.6,
+   4.92
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_tel_rack_body",
+  "area": 0.855,
+  "depth": 0.45,
+  "at": [
+   -0.94,
+   3.22
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_tel_rack_body",
+  "area": 0.855,
+  "depth": 0.45,
+  "at": [
+   -0.94,
+   3.22
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_smokebox",
+  "area": 0.844,
+  "depth": 0.6,
+  "at": [
+   28.33,
+   3.2
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_lug_c3_edge",
+  "area": 0.824,
+  "depth": 0.97,
+  "at": [
+   -14.4,
+   1.6
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_lug_c3_body",
+  "area": 0.81,
+  "depth": 0.96,
+  "at": [
+   -14.4,
+   1.6
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_emg_t_top",
+  "area": 0.775,
+  "depth": 0.9,
+  "at": [
+   -7.3,
+   3.4
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_mail_t_top",
+  "area": 0.66,
+  "depth": 0.6,
+  "at": [
+   12.35,
+   2.3
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_lug_c3_edge",
+  "area": 0.64,
+  "depth": 0.91,
+  "at": [
+   -14.4,
+   1.6
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_lug_c3_body",
+  "area": 0.627,
+  "depth": 0.9,
+  "at": [
+   -14.4,
+   1.6
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_lug_c0_edge",
+  "area": 0.6,
+  "depth": 0.79,
+  "at": [
+   -18.51,
+   4.77
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_lug_c1_edge",
+  "area": 0.6,
+  "depth": 0.8,
+  "at": [
+   -16.29,
+   4.77
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_lug_c0_body",
+  "area": 0.591,
+  "depth": 0.79,
+  "at": [
+   -18.51,
+   4.77
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_lug_c1_body",
+  "area": 0.591,
+  "depth": 0.79,
+  "at": [
+   -16.29,
+   4.77
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_lug_c4_edge",
+  "area": 0.501,
+  "depth": 0.78,
+  "at": [
+   -20.4,
+   1.6
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_lug_c0_edge",
+  "area": 0.492,
+  "depth": 0.73,
+  "at": [
+   -18.5,
+   4.79
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_lug_c1_edge",
+  "area": 0.49,
+  "depth": 0.74,
+  "at": [
+   -16.3,
+   4.79
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_lug_c4_body",
+  "area": 0.49,
+  "depth": 0.78,
+  "at": [
+   -20.4,
+   1.6
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_lug_c0_body",
+  "area": 0.483,
+  "depth": 0.72,
+  "at": [
+   -18.5,
+   4.79
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_lug_c1_body",
+  "area": 0.481,
+  "depth": 0.73,
+  "at": [
+   -16.3,
+   4.79
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_office_t_top",
+  "area": 0.48,
+  "depth": 0.6,
+  "at": [
+   -25.9,
+   1.6
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_vent0_frame",
+  "area": 0.426,
+  "depth": 0.56,
+  "at": [
+   -25.8,
+   1.5
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_vent1_frame",
+  "area": 0.426,
+  "depth": 0.56,
+  "at": [
+   -17.4,
+   1.5
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_vent3_frame",
+  "area": 0.426,
+  "depth": 0.56,
+  "at": [
+   -11.3,
+   1.5
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_vent5_frame",
+  "area": 0.426,
+  "depth": 0.56,
+  "at": [
+   -28.4,
+   1.5
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_vent7_frame",
+  "area": 0.426,
+  "depth": 0.56,
+  "at": [
+   0.8,
+   1.5
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_vent10_frame",
+  "area": 0.426,
+  "depth": 0.56,
+  "at": [
+   9.0,
+   1.5
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_vent9_frame",
+  "area": 0.368,
+  "depth": 0.56,
+  "at": [
+   4.84,
+   1.47
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tc_Admin_SwipeCardConsole_0_t_top",
+  "area": 0.35,
+  "depth": 0.5,
+  "at": [
+   13.3,
+   2.2
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_lug_trunk1_d",
+  "area": 0.316,
+  "depth": 0.56,
+  "at": [
+   -16.79,
+   3.91
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_lug_trunk1_d",
+  "area": 0.316,
+  "depth": 0.56,
+  "at": [
+   -16.79,
+   3.91
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_vent12_frame",
+  "area": 0.315,
+  "depth": 0.42,
+  "at": [
+   19.6,
+   4.93
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_lug_trunk1_w",
+  "area": 0.304,
+  "depth": 0.54,
+  "at": [
+   -16.79,
+   3.91
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_vent13_frame",
+  "area": 0.297,
+  "depth": 0.42,
+  "at": [
+   28.28,
+   4.93
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_office_cab_body",
+  "area": 0.264,
+  "depth": 0.39,
+  "at": [
+   -23.23,
+   1.73
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_vent11_frame",
+  "area": 0.258,
+  "depth": 0.56,
+  "at": [
+   12.12,
+   1.58
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_lug_trunk0_d",
+  "area": 0.251,
+  "depth": 0.54,
+  "at": [
+   -18.93,
+   3.91
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_lug_trunk0_d",
+  "area": 0.251,
+  "depth": 0.54,
+  "at": [
+   -18.93,
+   3.91
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_cab_seat2_seat",
+  "area": 0.25,
+  "depth": 0.5,
+  "at": [
+   22.05,
+   1.35
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_dyn_steel",
+  "area": 0.249,
+  "depth": 0.35,
+  "at": [
+   4.0,
+   1.39
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_dyn_steel",
+  "area": 0.249,
+  "depth": 0.36,
+  "at": [
+   4.0,
+   3.01
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_lug_trunk0b_d",
+  "area": 0.244,
+  "depth": 0.53,
+  "at": [
+   -18.11,
+   3.8
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_lug_trunk0b_d",
+  "area": 0.244,
+  "depth": 0.53,
+  "at": [
+   -18.11,
+   3.8
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_lug_trunk0_w",
+  "area": 0.243,
+  "depth": 0.53,
+  "at": [
+   -18.93,
+   3.91
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_lug_trunk0b_w",
+  "area": 0.233,
+  "depth": 0.52,
+  "at": [
+   -18.11,
+   3.8
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_cab_seat2_leg",
+  "area": 0.23,
+  "depth": 0.48,
+  "at": [
+   22.05,
+   1.35
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_lug_trunk1b_d",
+  "area": 0.214,
+  "depth": 0.53,
+  "at": [
+   -15.93,
+   3.82
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_lug_trunk1b_d",
+  "area": 0.214,
+  "depth": 0.53,
+  "at": [
+   -15.93,
+   3.82
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_office_chair_body",
+  "area": 0.212,
+  "depth": 0.42,
+  "at": [
+   -24.6,
+   4.35
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_lug_trunk1b_w",
+  "area": 0.205,
+  "depth": 0.52,
+  "at": [
+   -15.93,
+   3.82
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tc_UpperEngine_FuelEngineConsole_0_body",
+  "area": 0.2,
+  "depth": 0.4,
+  "at": [
+   10.5,
+   1.8
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "train_brass",
+  "area": 0.187,
+  "depth": 0.24,
+  "at": [
+   24.54,
+   3.2
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_emg_t_leg",
+  "area": 0.186,
+  "depth": 0.44,
+  "at": [
+   -7.3,
+   3.4
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_radio",
+  "area": 0.18,
+  "depth": 0.36,
+  "at": [
+   -0.93,
+   2.6
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_radio",
+  "area": 0.18,
+  "depth": 0.36,
+  "at": [
+   -0.93,
+   2.9
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_tel_chair_body",
+  "area": 0.18,
+  "depth": 0.39,
+  "at": [
+   -0.0,
+   2.3
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_platform_bench_leg",
+  "area": 0.172,
+  "depth": 0.12,
+  "at": [
+   -27.8,
+   5.07
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tc_UpperEngine_FuelEngineConsole_0_dark",
+  "area": 0.166,
+  "depth": 0.36,
+  "at": [
+   10.5,
+   1.8
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tc_LowerEngine_FuelEngineConsole_0_body",
+  "area": 0.154,
+  "depth": 0.39,
+  "at": [
+   19.84,
+   4.1
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tc_LowerEngine_FuelEngineConsole_0_dark",
+  "area": 0.131,
+  "depth": 0.36,
+  "at": [
+   19.85,
+   4.1
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_iron",
+  "area": 0.129,
+  "depth": 0.18,
+  "at": [
+   22.3,
+   5.04
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_office_chair_dark",
+  "area": 0.124,
+  "depth": 0.4,
+  "at": [
+   -24.6,
+   4.35
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_emg_base",
+  "area": 0.124,
+  "depth": 0.4,
+  "at": [
+   -7.3,
+   3.4
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_tel_chair_dark",
+  "area": 0.124,
+  "depth": 0.4,
+  "at": [
+   0.0,
+   2.3
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_office_desk_dark",
+  "area": 0.123,
+  "depth": 0.14,
+  "at": [
+   -24.6,
+   4.88
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "train_brass",
+  "area": 0.114,
+  "depth": 0.26,
+  "at": [
+   4.0,
+   2.97
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_platform_bench_seat",
+  "area": 0.112,
+  "depth": 0.08,
+  "at": [
+   -27.8,
+   5.05
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_iron",
+  "area": 0.111,
+  "depth": 0.18,
+  "at": [
+   -27.6,
+   5.04
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_tel_rack_back",
+  "area": 0.096,
+  "depth": 0.04,
+  "at": [
+   -1.13,
+   3.53
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "train_brass",
+  "area": 0.084,
+  "depth": 0.14,
+  "at": [
+   28.12,
+   3.2
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "train_lampglass",
+  "area": 0.08,
+  "depth": 0.32,
+  "at": [
+   -27.8,
+   3.25
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "train_lampglass",
+  "area": 0.08,
+  "depth": 0.32,
+  "at": [
+   -24.8,
+   3.25
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "train_lampglass",
+  "area": 0.08,
+  "depth": 0.32,
+  "at": [
+   -20.07,
+   3.25
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "train_lampglass",
+  "area": 0.08,
+  "depth": 0.32,
+  "at": [
+   -14.73,
+   3.25
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "train_lampglass",
+  "area": 0.08,
+  "depth": 0.32,
+  "at": [
+   -10.67,
+   3.25
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "train_lampglass",
+  "area": 0.08,
+  "depth": 0.32,
+  "at": [
+   -8.42,
+   3.25
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "train_lampglass",
+  "area": 0.08,
+  "depth": 0.32,
+  "at": [
+   -6.18,
+   3.25
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "train_lampglass",
+  "area": 0.08,
+  "depth": 0.32,
+  "at": [
+   -3.93,
+   3.25
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "train_lampglass",
+  "area": 0.08,
+  "depth": 0.32,
+  "at": [
+   0.8,
+   3.25
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "train_lampglass",
+  "area": 0.08,
+  "depth": 0.32,
+  "at": [
+   4.8,
+   3.25
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "train_lampglass",
+  "area": 0.08,
+  "depth": 0.32,
+  "at": [
+   10.0,
+   3.25
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "train_lampglass",
+  "area": 0.08,
+  "depth": 0.32,
+  "at": [
+   13.25,
+   3.25
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "train_lampglass",
+  "area": 0.08,
+  "depth": 0.32,
+  "at": [
+   23.2,
+   3.25
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_emg_btn",
+  "area": 0.071,
+  "depth": 0.3,
+  "at": [
+   -7.3,
+   3.4
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "train_lampglass",
+  "area": 0.066,
+  "depth": 0.25,
+  "at": [
+   18.3,
+   2.22
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_office_chair_body",
+  "area": 0.055,
+  "depth": 0.11,
+  "at": [
+   -24.6,
+   4.17
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tc_Storage_gasCanConsole_0_can2",
+  "area": 0.052,
+  "depth": 0.2,
+  "at": [
+   -18.65,
+   5.0
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_tel_chair_body",
+  "area": 0.051,
+  "depth": 0.11,
+  "at": [
+   -0.0,
+   2.47
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_stamp",
+  "area": 0.05,
+  "depth": 0.2,
+  "at": [
+   12.35,
+   2.3
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_cage",
+  "area": 0.045,
+  "depth": 0.24,
+  "at": [
+   -19.42,
+   1.52
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_gen_can",
+  "area": 0.043,
+  "depth": 0.18,
+  "at": [
+   8.75,
+   1.3
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_gen_can",
+  "area": 0.043,
+  "depth": 0.18,
+  "at": [
+   9.05,
+   1.3
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_gen_can",
+  "area": 0.043,
+  "depth": 0.18,
+  "at": [
+   9.35,
+   1.3
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_firedoor",
+  "area": 0.042,
+  "depth": 0.06,
+  "at": [
+   24.08,
+   3.25
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_platform_bench_seat",
+  "area": 0.035,
+  "depth": 0.02,
+  "at": [
+   -27.8,
+   5.12
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_headlamp",
+  "area": 0.035,
+  "depth": 0.18,
+  "at": [
+   28.14,
+   3.2
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_gauge",
+  "area": 0.031,
+  "depth": 0.2,
+  "at": [
+   24.09,
+   2.0
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_gauge",
+  "area": 0.031,
+  "depth": 0.2,
+  "at": [
+   24.09,
+   2.8
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_gauge",
+  "area": 0.031,
+  "depth": 0.2,
+  "at": [
+   24.09,
+   3.7
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_gauge",
+  "area": 0.031,
+  "depth": 0.2,
+  "at": [
+   24.09,
+   4.5
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_door_generator-part_door",
+  "area": 0.03,
+  "depth": 0.04,
+  "at": [
+   11.66,
+   2.34
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_door_dynamo-part_door",
+  "area": 0.03,
+  "depth": 0.04,
+  "at": [
+   2.86,
+   2.34
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_office_desk_s0_body",
+  "area": 0.028,
+  "depth": 0.19,
+  "at": [
+   -25.82,
+   4.98
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_office_desk_s2_body",
+  "area": 0.028,
+  "depth": 0.19,
+  "at": [
+   -23.38,
+   4.98
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_key_base",
+  "area": 0.028,
+  "depth": 0.14,
+  "at": [
+   -0.2,
+   1.45
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_mail_rack_body",
+  "area": 0.026,
+  "depth": 0.01,
+  "at": [
+   13.3,
+   1.45
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_mail_rack_body",
+  "area": 0.026,
+  "depth": 0.01,
+  "at": [
+   13.3,
+   1.45
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_mail_rack_body",
+  "area": 0.026,
+  "depth": 0.01,
+  "at": [
+   13.3,
+   1.45
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_gen_board",
+  "area": 0.025,
+  "depth": 0.04,
+  "at": [
+   11.5,
+   2.28
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_cam0_body",
+  "area": 0.025,
+  "depth": 0.18,
+  "at": [
+   -22.2,
+   3.25
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_cam1_body",
+  "area": 0.025,
+  "depth": 0.18,
+  "at": [
+   -12.6,
+   3.25
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_cam2_body",
+  "area": 0.025,
+  "depth": 0.18,
+  "at": [
+   7.6,
+   3.25
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_cam3_body",
+  "area": 0.025,
+  "depth": 0.18,
+  "at": [
+   21.3,
+   1.9
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_taillamp",
+  "area": 0.02,
+  "depth": 0.16,
+  "at": [
+   -28.75,
+   3.25
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_valve",
+  "area": 0.02,
+  "depth": 0.16,
+  "at": [
+   24.08,
+   2.4
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_valve",
+  "area": 0.02,
+  "depth": 0.16,
+  "at": [
+   24.08,
+   4.1
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_tape",
+  "area": 0.019,
+  "depth": 0.16,
+  "at": [
+   0.5,
+   1.45
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_hdoor_luggage--19.0_door",
+  "area": 0.019,
+  "depth": 0.04,
+  "at": [
+   -18.7,
+   3.66
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_hdoor_luggage--17.0_door",
+  "area": 0.019,
+  "depth": 0.04,
+  "at": [
+   -16.7,
+   3.66
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_tel_rack_body",
+  "area": 0.017,
+  "depth": 0.04,
+  "at": [
+   -0.92,
+   2.22
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_hdoor_tender-16.8_door",
+  "area": 0.017,
+  "depth": 0.04,
+  "at": [
+   17.08,
+   2.96
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_hdoor_tender-18.7_door",
+  "area": 0.017,
+  "depth": 0.04,
+  "at": [
+   18.98,
+   2.96
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "tv_emg_t_leg",
+  "area": 0.016,
+  "depth": 0.14,
+  "at": [
+   -7.3,
+   3.4
+  ]
+ },
+ {
+  "mesh": "train_interior",
+  "mat": "train_lampglass",
+  "area": 0.015,
+  "depth": 0.14,
+  "at": [
+   22.2,
+   1.4
+  ]
+ }
+]

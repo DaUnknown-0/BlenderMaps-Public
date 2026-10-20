@@ -1,0 +1,902 @@
+[
+{
+"name": "MedVent",
+"room": "MedBay",
+"pos": [
+-10.608,
+-4.176
+],
+"cam": [
+-9.11,
+-4.18,
+0.62,
+180,
+-6
+]
+},
+{
+"name": "MedScanner",
+"room": "MedBay",
+"pos": [
+-7.3284,
+-5.2476
+],
+"cam": [
+-8.08,
+-3.95,
+0.62,
+300,
+-6
+]
+},
+{
+"name": "MedBayConsole",
+"room": "MedBay",
+"pos": [
+-6.144,
+-4.26
+],
+"cam": [
+-7.59,
+-3.87,
+0.62,
+345,
+-6
+]
+},
+{
+"name": "DivertPowerConsole",
+"room": "Security",
+"pos": [
+-12.0816,
+-3.054
+],
+"cam": [
+-13.14,
+-4.11,
+0.62,
+45,
+-6
+]
+},
+{
+"name": "SecurityVent",
+"room": "Security",
+"pos": [
+-12.534,
+-6.9492
+],
+"cam": [
+-12.92,
+-5.5,
+0.62,
+285,
+-6
+]
+},
+{
+"name": "UploadDataConsole",
+"room": "Comms",
+"pos": [
+3.8784,
+-13.9596
+],
+"cam": [
+5.18,
+-13.21,
+0.62,
+210,
+-6
+]
+},
+{
+"name": "DivertPowerConsole",
+"room": "Comms",
+"pos": [
+6.1704,
+-14.0916
+],
+"cam": [
+5.11,
+-13.03,
+0.62,
+315,
+-6
+]
+},
+{
+"name": "FixCommsConsole",
+"room": "Comms",
+"pos": [
+4.2024,
+-17.1156
+],
+"cam": [
+5.26,
+-16.05,
+0.62,
+225,
+-6
+]
+},
+{
+"name": "LEngineVent",
+"room": "UpperEngine",
+"pos": [
+-15.288,
+2.52
+],
+"cam": [
+-16.79,
+2.52,
+0.62,
+0,
+-6
+]
+},
+{
+"name": "DivertPowerConsole",
+"room": "UpperEngine",
+"pos": [
+-17.226,
+3.1487
+],
+"cam": [
+-18.29,
+2.09,
+0.62,
+45,
+-6
+]
+},
+{
+"name": "AlignEngineConsole",
+"room": "UpperEngine",
+"pos": [
+-19.176,
+-0.4144
+],
+"cam": [
+-17.73,
+-0.03,
+0.62,
+195,
+-6
+]
+},
+{
+"name": "FuelEngineConsole",
+"room": "UpperEngine",
+"pos": [
+-18.3384,
+-0.3355
+],
+"cam": [
+-16.89,
+0.05,
+0.62,
+195,
+-6
+]
+},
+{
+"name": "FixWiringConsole",
+"room": "Security",
+"pos": [
+-15.5592,
+-4.5924
+],
+"cam": [
+-17.01,
+-4.98,
+0.62,
+15,
+-6
+]
+},
+{
+"name": "AlignEngineConsole",
+"room": "LowerEngine",
+"pos": [
+-19.1508,
+-12.618
+],
+"cam": [
+-17.7,
+-12.23,
+0.62,
+195,
+-6
+]
+},
+{
+"name": "FuelEngineConsole",
+"room": "LowerEngine",
+"pos": [
+-18.3132,
+-12.5388
+],
+"cam": [
+-16.86,
+-12.15,
+0.62,
+195,
+-6
+]
+},
+{
+"name": "DivertPowerConsole",
+"room": "LowerEngine",
+"pos": [
+-17.9988,
+-9.2532
+],
+"cam": [
+-17.25,
+-7.95,
+0.62,
+240,
+-6
+]
+},
+{
+"name": "REngineVent",
+"room": "LowerEngine",
+"pos": [
+-15.2508,
+-13.656
+],
+"cam": [
+-15.25,
+-12.16,
+0.62,
+270,
+-6
+]
+},
+{
+"name": "gasCanConsole",
+"room": "Storage",
+"pos": [
+-2.844,
+-13.8924
+],
+"cam": [
+-4.29,
+-14.28,
+0.62,
+15,
+-6
+]
+},
+{
+"name": "FixWiringConsole",
+"room": "Storage",
+"pos": [
+-1.932,
+-8.7204
+],
+"cam": [
+-0.63,
+-7.97,
+0.62,
+210,
+-6
+]
+},
+{
+"name": "AirlockConsole",
+"room": "Storage",
+"pos": [
+0.8292,
+-16.692
+],
+"cam": [
+0.83,
+-15.19,
+0.62,
+270,
+-6
+]
+},
+{
+"name": "LowerHandConsole",
+"room": "Reactor",
+"pos": [
+-21.288,
+-9.0168
+],
+"cam": [
+-20.9,
+-7.57,
+0.62,
+255,
+-6
+]
+},
+{
+"name": "UpperHandConsole",
+"room": "Reactor",
+"pos": [
+-21.276,
+-1.3368
+],
+"cam": [
+-21.66,
+-2.79,
+0.62,
+75,
+-6
+]
+},
+{
+"name": "StartReactorConsole",
+"room": "Reactor",
+"pos": [
+-21.792,
+-5.5728
+],
+"cam": [
+-20.29,
+-5.57,
+0.62,
+180,
+-6
+]
+},
+{
+"name": "UnlockManifoldsConsole",
+"room": "Reactor",
+"pos": [
+-22.536,
+-2.4996
+],
+"cam": [
+-21.79,
+-3.8,
+0.62,
+120,
+-6
+]
+},
+{
+"name": "UpperReactorVent",
+"room": "Reactor",
+"pos": [
+-21.876,
+-3.0516
+],
+"cam": [
+-21.49,
+-4.5,
+0.62,
+105,
+-6
+]
+},
+{
+"name": "ReactorVent",
+"room": "Reactor",
+"pos": [
+-20.796,
+-6.9528
+],
+"cam": [
+-19.5,
+-6.2,
+0.62,
+210,
+-6
+]
+},
+{
+"name": "ElecVent",
+"room": "Electrical",
+"pos": [
+-9.7764,
+-8.034
+],
+"cam": [
+-8.28,
+-8.03,
+0.62,
+180,
+-6
+]
+},
+{
+"name": "DivertPowerConsole",
+"room": "Electrical",
+"pos": [
+-9,
+-7.2936
+],
+"cam": [
+-7.94,
+-8.35,
+0.62,
+135,
+-6
+]
+},
+{
+"name": "SwitchConsole",
+"room": "Electrical",
+"pos": [
+-9.792,
+-9.8988
+],
+"cam": [
+-9.79,
+-11.4,
+0.62,
+90,
+-6
+]
+},
+{
+"name": "FixWiringConsole",
+"room": "Electrical",
+"pos": [
+-7.728,
+-7.6668
+],
+"cam": [
+-7.34,
+-9.12,
+0.62,
+105,
+-6
+]
+},
+{
+"name": "CalibrateConsole",
+"room": "Electrical",
+"pos": [
+-5.8644,
+-7.4772
+],
+"cam": [
+-6.61,
+-8.78,
+0.62,
+60,
+-6
+]
+},
+{
+"name": "UploadDataConsole",
+"room": "Electrical",
+"pos": [
+-9.744,
+-7.2936
+],
+"cam": [
+-8.68,
+-8.35,
+0.62,
+135,
+-6
+]
+},
+{
+"name": "FixWiringConsole",
+"room": "Nav",
+"pos": [
+14.52,
+-3.774
+],
+"cam": [
+13.77,
+-5.07,
+0.62,
+60,
+-6
+]
+},
+{
+"name": "BigYVent",
+"room": "Hallway",
+"pos": [
+9.384,
+-6.438
+],
+"cam": [
+10.88,
+-6.44,
+0.62,
+180,
+-6
+]
+},
+{
+"name": "ShieldsVent",
+"room": "Shields",
+"pos": [
+9.5232,
+-14.3376
+],
+"cam": [
+9.52,
+-12.84,
+0.62,
+270,
+-6
+]
+},
+{
+"name": "ShieldConsole",
+"room": "Shields",
+"pos": [
+7.5264,
+-13.9812
+],
+"cam": [
+8.59,
+-12.92,
+0.62,
+225,
+-6
+]
+},
+{
+"name": "DivertPowerConsole",
+"room": "Shields",
+"pos": [
+10.722,
+-10.1376
+],
+"cam": [
+9.66,
+-11.2,
+0.62,
+45,
+-6
+]
+},
+{
+"name": "NoOxyConsole",
+"room": "LifeSupp",
+"pos": [
+6.7116,
+-2.832
+],
+"cam": [
+8.16,
+-3.22,
+0.62,
+165,
+-6
+]
+},
+{
+"name": "CleanFilterConsole",
+"room": "LifeSupp",
+"pos": [
+5.7432,
+-2.9772
+],
+"cam": [
+7.19,
+-3.37,
+0.62,
+165,
+-6
+]
+},
+{
+"name": "DivertPowerConsole",
+"room": "LifeSupp",
+"pos": [
+8.376,
+-2.484
+],
+"cam": [
+9.13,
+-1.18,
+0.62,
+240,
+-6
+]
+},
+{
+"name": "GarbageConsole",
+"room": "LifeSupp",
+"pos": [
+4.896,
+-3.276
+],
+"cam": [
+6.4,
+-3.28,
+0.62,
+180,
+-6
+]
+},
+{
+"name": "WeaponsVent",
+"room": "Weapons",
+"pos": [
+8.82,
+3.324
+],
+"cam": [
+8.43,
+1.88,
+0.62,
+75,
+-6
+]
+},
+{
+"name": "UploadDataConsole",
+"room": "Weapons",
+"pos": [
+8.664,
+3.936
+],
+"cam": [
+8.66,
+2.44,
+0.62,
+90,
+-6
+]
+},
+{
+"name": "DivertPowerConsole",
+"room": "Weapons",
+"pos": [
+11.448,
+2.076
+],
+"cam": [
+10.0,
+2.46,
+0.62,
+345,
+-6
+]
+},
+{
+"name": "WeaponConsole",
+"room": "Weapons",
+"pos": [
+9.0876,
+1.812
+],
+"cam": [
+7.64,
+1.42,
+0.62,
+15,
+-6
+]
+},
+{
+"name": "NavVentNorth",
+"room": "Nav",
+"pos": [
+16.008,
+-3.168
+],
+"cam": [
+16.01,
+-4.67,
+0.62,
+90,
+-6
+]
+},
+{
+"name": "DivertPowerConsole",
+"room": "Nav",
+"pos": [
+16.02,
+-2.448
+],
+"cam": [
+16.02,
+-3.95,
+0.62,
+90,
+-6
+]
+},
+{
+"name": "NavVentSouth",
+"room": "Nav",
+"pos": [
+16.008,
+-6.384
+],
+"cam": [
+17.07,
+-5.32,
+0.62,
+225,
+-6
+]
+},
+{
+"name": "UploadDataConsole",
+"room": "Nav",
+"pos": [
+17.004,
+-2.448
+],
+"cam": [
+16.25,
+-3.75,
+0.62,
+60,
+-6
+]
+},
+{
+"name": "ChartCourseConsole",
+"room": "Nav",
+"pos": [
+18.0636,
+-3.312
+],
+"cam": [
+17.0,
+-4.37,
+0.62,
+45,
+-6
+]
+},
+{
+"name": "StabilizeSteeringConsole",
+"room": "Nav",
+"pos": [
+18.732,
+-4.728
+],
+"cam": [
+17.43,
+-3.98,
+0.62,
+330,
+-6
+]
+},
+{
+"name": "DataConsole",
+"room": "Cafeteria",
+"pos": [
+3.4908,
+4.896
+],
+"cam": [
+2.04,
+5.28,
+0.62,
+345,
+-6
+]
+},
+{
+"name": "FixWiringConsole",
+"room": "Cafeteria",
+"pos": [
+-5.2812,
+5.2464
+],
+"cam": [
+-3.78,
+5.25,
+0.62,
+180,
+-6
+]
+},
+{
+"name": "CafeVent",
+"room": "Cafeteria",
+"pos": [
+4.2588,
+-0.276
+],
+"cam": [
+4.26,
+1.22,
+0.62,
+270,
+-6
+]
+},
+{
+"name": "GarbageConsole",
+"room": "Cafeteria",
+"pos": [
+4.4748,
+3.948
+],
+"cam": [
+3.03,
+4.34,
+0.62,
+345,
+-6
+]
+},
+{
+"name": "SwipeCardConsole",
+"room": "Admin",
+"pos": [
+5.6352,
+-8.6328
+],
+"cam": [
+4.34,
+-7.88,
+0.62,
+330,
+-6
+]
+},
+{
+"name": "FixWiringConsole",
+"room": "Admin",
+"pos": [
+1.392,
+-6.4092
+],
+"cam": [
+0.09,
+-7.16,
+0.62,
+30,
+-6
+]
+},
+{
+"name": "NoOxyConsole",
+"room": "Admin",
+"pos": [
+6.4536,
+-6.408
+],
+"cam": [
+6.45,
+-7.91,
+0.62,
+90,
+-6
+]
+},
+{
+"name": "UploadDataConsole",
+"room": "Admin",
+"pos": [
+2.508,
+-6.2652
+],
+"cam": [
+1.21,
+-7.02,
+0.62,
+30,
+-6
+]
+},
+{
+"name": "AdminVent",
+"room": "Admin",
+"pos": [
+2.544,
+-9.9552
+],
+"cam": [
+4.04,
+-9.96,
+0.62,
+180,
+-6
+]
+}
+]

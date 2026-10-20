@@ -1,0 +1,1542 @@
+[
+ {
+  "mesh": "props_Garden",
+  "mat": "gar_tank_base",
+  "area": 1.569,
+  "depth": 1.88,
+  "at": [
+   17.85,
+   24.37
+  ]
+ },
+ {
+  "mesh": "props_Garden",
+  "mat": "gar_tank_rib",
+  "area": 1.13,
+  "depth": 1.7,
+  "at": [
+   17.84,
+   24.35
+  ]
+ },
+ {
+  "mesh": "props_MedBay",
+  "mat": "mmed_scan_side",
+  "area": 1.054,
+  "depth": 1.16,
+  "at": [
+   16.24,
+   -0.07
+  ]
+ },
+ {
+  "mesh": "props_Garden",
+  "mat": "gar_tank_rib",
+  "area": 1.043,
+  "depth": 1.66,
+  "at": [
+   17.84,
+   24.34
+  ]
+ },
+ {
+  "mesh": "props_MedBay",
+  "mat": "mmed_scan_top",
+  "area": 0.854,
+  "depth": 1.04,
+  "at": [
+   16.24,
+   -0.07
+  ]
+ },
+ {
+  "mesh": "props_Balcony",
+  "mat": "bal_dish",
+  "area": 0.843,
+  "depth": 0.86,
+  "at": [
+   18.37,
+   -3.02
+  ]
+ },
+ {
+  "mesh": "props_Garden",
+  "mat": "gar_planter7_rim",
+  "area": 0.783,
+  "depth": 0.86,
+  "at": [
+   21.14,
+   23.57
+  ]
+ },
+ {
+  "mesh": "props_Garden",
+  "mat": "gar_planter6_rim",
+  "area": 0.782,
+  "depth": 0.86,
+  "at": [
+   19.15,
+   23.48
+  ]
+ },
+ {
+  "mesh": "props_Garden",
+  "mat": "gar_planter4_rim",
+  "area": 0.777,
+  "depth": 0.86,
+  "at": [
+   14.91,
+   23.43
+  ]
+ },
+ {
+  "mesh": "props_Garden",
+  "mat": "gar_planter5_rim",
+  "area": 0.777,
+  "depth": 0.86,
+  "at": [
+   16.42,
+   23.38
+  ]
+ },
+ {
+  "mesh": "props_Garden",
+  "mat": "gar_planter6_trough",
+  "area": 0.743,
+  "depth": 0.84,
+  "at": [
+   19.15,
+   23.48
+  ]
+ },
+ {
+  "mesh": "props_Garden",
+  "mat": "gar_planter7_trough",
+  "area": 0.743,
+  "depth": 0.84,
+  "at": [
+   21.14,
+   23.57
+  ]
+ },
+ {
+  "mesh": "props_Garden",
+  "mat": "gar_planter4_trough",
+  "area": 0.738,
+  "depth": 0.84,
+  "at": [
+   14.91,
+   23.43
+  ]
+ },
+ {
+  "mesh": "props_Garden",
+  "mat": "gar_planter5_trough",
+  "area": 0.738,
+  "depth": 0.84,
+  "at": [
+   16.42,
+   23.38
+  ]
+ },
+ {
+  "mesh": "props_Balcony",
+  "mat": "bal_dish",
+  "area": 0.697,
+  "depth": 0.84,
+  "at": [
+   18.4,
+   -3.2
+  ]
+ },
+ {
+  "mesh": "props_Garden",
+  "mat": "gar_planter6_trough",
+  "area": 0.666,
+  "depth": 0.8,
+  "at": [
+   19.16,
+   23.48
+  ]
+ },
+ {
+  "mesh": "props_Garden",
+  "mat": "gar_planter7_trough",
+  "area": 0.666,
+  "depth": 0.8,
+  "at": [
+   21.13,
+   23.58
+  ]
+ },
+ {
+  "mesh": "props_Garden",
+  "mat": "gar_planter4_trough",
+  "area": 0.661,
+  "depth": 0.8,
+  "at": [
+   14.91,
+   23.44
+  ]
+ },
+ {
+  "mesh": "props_Garden",
+  "mat": "gar_planter5_trough",
+  "area": 0.661,
+  "depth": 0.8,
+  "at": [
+   16.42,
+   23.39
+  ]
+ },
+ {
+  "mesh": "props_Garden",
+  "mat": "gar_planter6_soil",
+  "area": 0.592,
+  "depth": 0.76,
+  "at": [
+   19.16,
+   23.48
+  ]
+ },
+ {
+  "mesh": "props_Garden",
+  "mat": "gar_planter7_soil",
+  "area": 0.592,
+  "depth": 0.76,
+  "at": [
+   21.13,
+   23.58
+  ]
+ },
+ {
+  "mesh": "props_Garden",
+  "mat": "gar_planter4_soil",
+  "area": 0.588,
+  "depth": 0.76,
+  "at": [
+   14.91,
+   23.44
+  ]
+ },
+ {
+  "mesh": "props_Garden",
+  "mat": "gar_planter5_soil",
+  "area": 0.588,
+  "depth": 0.76,
+  "at": [
+   16.42,
+   23.39
+  ]
+ },
+ {
+  "mesh": "props_Reactor",
+  "mat": "mrea_core",
+  "area": 0.468,
+  "depth": 0.69,
+  "at": [
+   2.47,
+   13.23
+  ]
+ },
+ {
+  "mesh": "props_MedBay",
+  "mat": "mmed_scan_rim",
+  "area": 0.46,
+  "depth": 0.77,
+  "at": [
+   16.24,
+   -0.07
+  ]
+ },
+ {
+  "mesh": "props_Garden",
+  "mat": "gar_planter1_rim",
+  "area": 0.423,
+  "depth": 0.68,
+  "at": [
+   16.66,
+   22.57
+  ]
+ },
+ {
+  "mesh": "props_Garden",
+  "mat": "gar_planter2_rim",
+  "area": 0.421,
+  "depth": 0.68,
+  "at": [
+   19.05,
+   22.59
+  ]
+ },
+ {
+  "mesh": "props_Garden",
+  "mat": "gar_planter3_rim",
+  "area": 0.421,
+  "depth": 0.68,
+  "at": [
+   22.02,
+   22.61
+  ]
+ },
+ {
+  "mesh": "props_Garden",
+  "mat": "gar_planter0_rim",
+  "area": 0.413,
+  "depth": 0.68,
+  "at": [
+   15.09,
+   22.5
+  ]
+ },
+ {
+  "mesh": "props_MedBay",
+  "mat": "mmed_hbed1_frame",
+  "area": 0.386,
+  "depth": 0.4,
+  "at": [
+   16.54,
+   -1.64
+  ]
+ },
+ {
+  "mesh": "props_Garden",
+  "mat": "gar_pots_top",
+  "area": 0.383,
+  "depth": 0.3,
+  "at": [
+   20.48,
+   22.85
+  ]
+ },
+ {
+  "mesh": "props_Garden",
+  "mat": "gar_planter1_trough",
+  "area": 0.382,
+  "depth": 0.66,
+  "at": [
+   16.66,
+   22.58
+  ]
+ },
+ {
+  "mesh": "props_Garden",
+  "mat": "gar_planter2_trough",
+  "area": 0.382,
+  "depth": 0.66,
+  "at": [
+   19.05,
+   22.6
+  ]
+ },
+ {
+  "mesh": "props_Garden",
+  "mat": "gar_planter3_trough",
+  "area": 0.38,
+  "depth": 0.66,
+  "at": [
+   22.02,
+   22.62
+  ]
+ },
+ {
+  "mesh": "props_MedBay",
+  "mat": "mmed_hbed0_frame",
+  "area": 0.379,
+  "depth": 0.4,
+  "at": [
+   14.25,
+   -1.64
+  ]
+ },
+ {
+  "mesh": "props_MedBay",
+  "mat": "mmed_hbed1_mattress",
+  "area": 0.378,
+  "depth": 0.4,
+  "at": [
+   16.55,
+   -1.64
+  ]
+ },
+ {
+  "mesh": "props_Garden",
+  "mat": "gar_planter0_trough",
+  "area": 0.377,
+  "depth": 0.66,
+  "at": [
+   15.09,
+   22.51
+  ]
+ },
+ {
+  "mesh": "props_MedBay",
+  "mat": "mmed_hbed1_blanket",
+  "area": 0.374,
+  "depth": 0.4,
+  "at": [
+   16.56,
+   -1.64
+  ]
+ },
+ {
+  "mesh": "props_MedBay",
+  "mat": "mmed_hbed0_mattress",
+  "area": 0.371,
+  "depth": 0.4,
+  "at": [
+   14.24,
+   -1.64
+  ]
+ },
+ {
+  "mesh": "props_MedBay",
+  "mat": "mmed_hbed0_blanket",
+  "area": 0.367,
+  "depth": 0.4,
+  "at": [
+   14.23,
+   -1.64
+  ]
+ },
+ {
+  "mesh": "props_Garden",
+  "mat": "gar_planter9_rim",
+  "area": 0.361,
+  "depth": 0.7,
+  "at": [
+   15.6,
+   24.68
+  ]
+ },
+ {
+  "mesh": "props_Comms",
+  "mat": "mcom_desk_top",
+  "area": 0.357,
+  "depth": 0.23,
+  "at": [
+   15.42,
+   4.9
+  ]
+ },
+ {
+  "mesh": "props_MedBay",
+  "mat": "mmed_scan_ring",
+  "area": 0.355,
+  "depth": 0.67,
+  "at": [
+   16.24,
+   -0.07
+  ]
+ },
+ {
+  "mesh": "props_Garden",
+  "mat": "gar_planter8_rim",
+  "area": 0.342,
+  "depth": 0.68,
+  "at": [
+   14.87,
+   24.16
+  ]
+ },
+ {
+  "mesh": "props_Garden",
+  "mat": "gar_planter9_trough",
+  "area": 0.342,
+  "depth": 0.69,
+  "at": [
+   15.6,
+   24.68
+  ]
+ },
+ {
+  "mesh": "props_Garden",
+  "mat": "gar_planter8_trough",
+  "area": 0.309,
+  "depth": 0.66,
+  "at": [
+   14.87,
+   24.17
+  ]
+ },
+ {
+  "mesh": "props_Garden",
+  "mat": "gar_planter9_trough",
+  "area": 0.304,
+  "depth": 0.66,
+  "at": [
+   15.6,
+   24.7
+  ]
+ },
+ {
+  "mesh": "props_Garden",
+  "mat": "gar_planter0_trough",
+  "area": 0.303,
+  "depth": 0.62,
+  "at": [
+   15.09,
+   22.52
+  ]
+ },
+ {
+  "mesh": "props_Garden",
+  "mat": "gar_planter1_trough",
+  "area": 0.303,
+  "depth": 0.62,
+  "at": [
+   16.65,
+   22.59
+  ]
+ },
+ {
+  "mesh": "props_Garden",
+  "mat": "gar_planter2_trough",
+  "area": 0.303,
+  "depth": 0.62,
+  "at": [
+   19.04,
+   22.61
+  ]
+ },
+ {
+  "mesh": "props_Garden",
+  "mat": "gar_planter3_trough",
+  "area": 0.301,
+  "depth": 0.62,
+  "at": [
+   22.0,
+   22.63
+  ]
+ },
+ {
+  "mesh": "props_Garden",
+  "mat": "gar_planter10_rim",
+  "area": 0.292,
+  "depth": 0.68,
+  "at": [
+   20.21,
+   24.58
+  ]
+ },
+ {
+  "mesh": "props_Garden",
+  "mat": "gar_planter9_soil",
+  "area": 0.267,
+  "depth": 0.64,
+  "at": [
+   15.6,
+   24.71
+  ]
+ },
+ {
+  "mesh": "props_Garden",
+  "mat": "gar_planter10_trough",
+  "area": 0.264,
+  "depth": 0.66,
+  "at": [
+   20.2,
+   24.58
+  ]
+ },
+ {
+  "mesh": "props_Garden",
+  "mat": "gar_planter8_trough",
+  "area": 0.245,
+  "depth": 0.62,
+  "at": [
+   14.85,
+   24.19
+  ]
+ },
+ {
+  "mesh": "props_Garden",
+  "mat": "gar_planter0_soil",
+  "area": 0.228,
+  "depth": 0.58,
+  "at": [
+   15.07,
+   22.54
+  ]
+ },
+ {
+  "mesh": "props_Garden",
+  "mat": "gar_planter1_soil",
+  "area": 0.228,
+  "depth": 0.58,
+  "at": [
+   16.63,
+   22.61
+  ]
+ },
+ {
+  "mesh": "props_Garden",
+  "mat": "gar_planter2_soil",
+  "area": 0.228,
+  "depth": 0.58,
+  "at": [
+   19.02,
+   22.63
+  ]
+ },
+ {
+  "mesh": "props_Garden",
+  "mat": "gar_planter3_soil",
+  "area": 0.226,
+  "depth": 0.58,
+  "at": [
+   21.98,
+   22.66
+  ]
+ },
+ {
+  "mesh": "props_Laboratory",
+  "mat": "lab_vent_frame",
+  "area": 0.223,
+  "depth": 0.41,
+  "at": [
+   11.61,
+   13.76
+  ]
+ },
+ {
+  "mesh": "props_LaunchPad",
+  "mat": "lp_vent_frame",
+  "area": 0.223,
+  "depth": 0.41,
+  "at": [
+   -6.18,
+   3.51
+  ]
+ },
+ {
+  "mesh": "props_Locker",
+  "mat": "lock_vent_frame",
+  "area": 0.223,
+  "depth": 0.41,
+  "at": [
+   4.29,
+   0.48
+  ]
+ },
+ {
+  "mesh": "props_MedBay",
+  "mat": "mmed_vent_frame",
+  "area": 0.223,
+  "depth": 0.41,
+  "at": [
+   15.41,
+   -1.87
+  ]
+ },
+ {
+  "mesh": "props_Reactor",
+  "mat": "mrea_vent_frame",
+  "area": 0.223,
+  "depth": 0.41,
+  "at": [
+   0.48,
+   10.64
+  ]
+ },
+ {
+  "mesh": "objects_Cafe",
+  "mat": "obj_mira_48_frame",
+  "area": 0.223,
+  "depth": 0.41,
+  "at": [
+   23.9,
+   7.13
+  ]
+ },
+ {
+  "mesh": "props_Cafe",
+  "mat": "mcafe_table26_top",
+  "area": 0.213,
+  "depth": 0.16,
+  "at": [
+   26.9,
+   0.81
+  ]
+ },
+ {
+  "mesh": "props_Garden",
+  "mat": "gar_planter10_trough",
+  "area": 0.209,
+  "depth": 0.62,
+  "at": [
+   20.19,
+   24.61
+  ]
+ },
+ {
+  "mesh": "props_Cafe",
+  "mat": "mcafe_table23_top",
+  "area": 0.203,
+  "depth": 0.16,
+  "at": [
+   24.04,
+   0.81
+  ]
+ },
+ {
+  "mesh": "props_Garden",
+  "mat": "gar_planter8_soil",
+  "area": 0.182,
+  "depth": 0.58,
+  "at": [
+   14.83,
+   24.21
+  ]
+ },
+ {
+  "mesh": "props_Laboratory",
+  "mat": "lab_right_col_top",
+  "area": 0.182,
+  "depth": 0.63,
+  "at": [
+   11.51,
+   10.7
+  ]
+ },
+ {
+  "mesh": "objects_Decontam",
+  "mat": "obj_mira_167_frame",
+  "area": 0.179,
+  "depth": 0.33,
+  "at": [
+   6.83,
+   3.13
+  ]
+ },
+ {
+  "mesh": "props_Comms",
+  "mat": "mcom_chair_body",
+  "area": 0.165,
+  "depth": 0.37,
+  "at": [
+   15.55,
+   4.45
+  ]
+ },
+ {
+  "mesh": "props_Garden",
+  "mat": "gar_planter10_soil",
+  "area": 0.157,
+  "depth": 0.58,
+  "at": [
+   20.16,
+   24.64
+  ]
+ },
+ {
+  "mesh": "props_Laboratory",
+  "mat": "lab_right_col_body",
+  "area": 0.156,
+  "depth": 0.61,
+  "at": [
+   11.52,
+   10.71
+  ]
+ },
+ {
+  "mesh": "props_Cafe",
+  "mat": "mcafe_shelf_body",
+  "area": 0.154,
+  "depth": 0.29,
+  "at": [
+   28.93,
+   0.76
+  ]
+ },
+ {
+  "mesh": "props_Cafe",
+  "mat": "mcafe_shelf_body",
+  "area": 0.154,
+  "depth": 0.29,
+  "at": [
+   28.93,
+   0.76
+  ]
+ },
+ {
+  "mesh": "props_Cafe",
+  "mat": "mcafe_shelf_body",
+  "area": 0.154,
+  "depth": 0.29,
+  "at": [
+   28.93,
+   0.76
+  ]
+ },
+ {
+  "mesh": "props_Office",
+  "mat": "off_deskb_top",
+  "area": 0.15,
+  "depth": 1.11,
+  "at": [
+   13.83,
+   17.17
+  ]
+ },
+ {
+  "mesh": "props_Admin",
+  "mat": "madm_vent_frame",
+  "area": 0.149,
+  "depth": 0.33,
+  "at": [
+   22.39,
+   17.18
+  ]
+ },
+ {
+  "mesh": "props_Balcony",
+  "mat": "bal_vent_frame",
+  "area": 0.149,
+  "depth": 0.33,
+  "at": [
+   23.77,
+   -1.98
+  ]
+ },
+ {
+  "mesh": "props_Garden",
+  "mat": "gar_vent_frame",
+  "area": 0.149,
+  "depth": 0.33,
+  "at": [
+   17.85,
+   25.19
+  ]
+ },
+ {
+  "mesh": "props_Office",
+  "mat": "off_vent_frame",
+  "area": 0.149,
+  "depth": 0.33,
+  "at": [
+   13.28,
+   20.09
+  ]
+ },
+ {
+  "mesh": "props_Reactor",
+  "mat": "mrea_border_e1_body",
+  "area": 0.135,
+  "depth": 0.32,
+  "at": [
+   4.41,
+   12.2
+  ]
+ },
+ {
+  "mesh": "props_Reactor",
+  "mat": "mrea_border_e0_body",
+  "area": 0.134,
+  "depth": 0.32,
+  "at": [
+   4.41,
+   13.02
+  ]
+ },
+ {
+  "mesh": "props_Storage",
+  "mat": "msto_green_side",
+  "area": 0.133,
+  "depth": 0.39,
+  "at": [
+   20.7,
+   4.78
+  ]
+ },
+ {
+  "mesh": "props_Reactor",
+  "mat": "mrea_border_e2_body",
+  "area": 0.132,
+  "depth": 0.32,
+  "at": [
+   4.41,
+   11.15
+  ]
+ },
+ {
+  "mesh": "props_Balcony",
+  "mat": "bal_dish_dark",
+  "area": 0.124,
+  "depth": 0.4,
+  "at": [
+   18.35,
+   -3.2
+  ]
+ },
+ {
+  "mesh": "props_Comms",
+  "mat": "mcom_chair_dark",
+  "area": 0.124,
+  "depth": 0.4,
+  "at": [
+   15.55,
+   4.45
+  ]
+ },
+ {
+  "mesh": "props_Storage",
+  "mat": "msto_cardstack_edge",
+  "area": 0.119,
+  "depth": 0.36,
+  "at": [
+   18.79,
+   4.78
+  ]
+ },
+ {
+  "mesh": "props_Office",
+  "mat": "off_ball",
+  "area": 0.117,
+  "depth": 0.46,
+  "at": [
+   14.76,
+   17.44
+  ]
+ },
+ {
+  "mesh": "props_Storage",
+  "mat": "msto_cardstack_body",
+  "area": 0.114,
+  "depth": 0.36,
+  "at": [
+   18.79,
+   4.78
+  ]
+ },
+ {
+  "mesh": "props_Reactor",
+  "mat": "mrea_border_e1_body",
+  "area": 0.101,
+  "depth": 0.23,
+  "at": [
+   4.68,
+   12.2
+  ]
+ },
+ {
+  "mesh": "props_Reactor",
+  "mat": "mrea_border_e2_body",
+  "area": 0.099,
+  "depth": 0.23,
+  "at": [
+   4.68,
+   11.15
+  ]
+ },
+ {
+  "mesh": "props_Reactor",
+  "mat": "mrea_border_e1_dark",
+  "area": 0.092,
+  "depth": 0.24,
+  "at": [
+   4.41,
+   12.22
+  ]
+ },
+ {
+  "mesh": "props_Reactor",
+  "mat": "mrea_border_e0_dark",
+  "area": 0.09,
+  "depth": 0.24,
+  "at": [
+   4.41,
+   13.04
+  ]
+ },
+ {
+  "mesh": "props_Reactor",
+  "mat": "mrea_border_e0_body",
+  "area": 0.089,
+  "depth": 0.21,
+  "at": [
+   4.67,
+   13.02
+  ]
+ },
+ {
+  "mesh": "props_Reactor",
+  "mat": "mrea_border_e2_dark",
+  "area": 0.089,
+  "depth": 0.24,
+  "at": [
+   4.41,
+   11.17
+  ]
+ },
+ {
+  "mesh": "props_Garden",
+  "mat": "gar_tank_soil",
+  "area": 0.088,
+  "depth": 0.29,
+  "at": [
+   17.83,
+   24.07
+  ]
+ },
+ {
+  "mesh": "props_Garden",
+  "mat": "gar_filter_body",
+  "area": 0.08,
+  "depth": 0.2,
+  "at": [
+   17.22,
+   23.62
+  ]
+ },
+ {
+  "mesh": "props_Storage",
+  "mat": "msto_cardstack_body",
+  "area": 0.068,
+  "depth": 0.26,
+  "at": [
+   18.82,
+   4.8
+  ]
+ },
+ {
+  "mesh": "props_Office",
+  "mat": "off_chair_body",
+  "area": 0.067,
+  "depth": 0.25,
+  "at": [
+   15.24,
+   20.79
+  ]
+ },
+ {
+  "mesh": "props_Reactor",
+  "mat": "mrea_border_w2_body",
+  "area": 0.067,
+  "depth": 0.21,
+  "at": [
+   0.55,
+   10.97
+  ]
+ },
+ {
+  "mesh": "props_Office",
+  "mat": "off_chair_dark",
+  "area": 0.066,
+  "depth": 0.28,
+  "at": [
+   15.25,
+   20.79
+  ]
+ },
+ {
+  "mesh": "props_Garden",
+  "mat": "gar_o2_body",
+  "area": 0.064,
+  "depth": 0.2,
+  "at": [
+   17.86,
+   23.62
+  ]
+ },
+ {
+  "mesh": "props_Comms",
+  "mat": "mcom_keys",
+  "area": 0.059,
+  "depth": 0.14,
+  "at": [
+   15.55,
+   4.95
+  ]
+ },
+ {
+  "mesh": "props_Garden",
+  "mat": "gar_filter_dark",
+  "area": 0.058,
+  "depth": 0.16,
+  "at": [
+   17.22,
+   23.62
+  ]
+ },
+ {
+  "mesh": "props_Reactor",
+  "mat": "mrea_border_w2_body",
+  "area": 0.054,
+  "depth": 0.24,
+  "at": [
+   0.27,
+   10.98
+  ]
+ },
+ {
+  "mesh": "props_Storage",
+  "mat": "msto_card_side",
+  "area": 0.054,
+  "depth": 0.32,
+  "at": [
+   20.63,
+   1.85
+  ]
+ },
+ {
+  "mesh": "props_Office",
+  "mat": "off_chair_body",
+  "area": 0.051,
+  "depth": 0.2,
+  "at": [
+   13.26,
+   20.39
+  ]
+ },
+ {
+  "mesh": "props_Comms",
+  "mat": "mcom_chair_body",
+  "area": 0.048,
+  "depth": 0.11,
+  "at": [
+   15.55,
+   4.29
+  ]
+ },
+ {
+  "mesh": "props_Garden",
+  "mat": "gar_filter_dark",
+  "area": 0.048,
+  "depth": 0.14,
+  "at": [
+   17.22,
+   23.62
+  ]
+ },
+ {
+  "mesh": "props_Reactor",
+  "mat": "mrea_border_w1_body",
+  "area": 0.046,
+  "depth": 0.09,
+  "at": [
+   0.66,
+   12.11
+  ]
+ },
+ {
+  "mesh": "props_Garden",
+  "mat": "gar_o2_dark",
+  "area": 0.045,
+  "depth": 0.16,
+  "at": [
+   17.86,
+   23.62
+  ]
+ },
+ {
+  "mesh": "props_Office",
+  "mat": "off_chair_dark",
+  "area": 0.045,
+  "depth": 0.23,
+  "at": [
+   13.26,
+   20.39
+  ]
+ },
+ {
+  "mesh": "props_Office",
+  "mat": "off_lamp",
+  "area": 0.044,
+  "depth": 0.21,
+  "at": [
+   16.19,
+   19.5
+  ]
+ },
+ {
+  "mesh": "props_Office",
+  "mat": "off_chair_body",
+  "area": 0.043,
+  "depth": 0.11,
+  "at": [
+   13.3,
+   20.34
+  ]
+ },
+ {
+  "mesh": "props_Reactor",
+  "mat": "mrea_border_w0_body",
+  "area": 0.043,
+  "depth": 0.09,
+  "at": [
+   0.66,
+   13.0
+  ]
+ },
+ {
+  "mesh": "props_Reactor",
+  "mat": "mrea_border_w2_dark",
+  "area": 0.041,
+  "depth": 0.17,
+  "at": [
+   0.55,
+   10.99
+  ]
+ },
+ {
+  "mesh": "props_Office",
+  "mat": "off_lampshade",
+  "area": 0.04,
+  "depth": 0.17,
+  "at": [
+   13.06,
+   19.46
+  ]
+ },
+ {
+  "mesh": "props_Reactor",
+  "mat": "mrea_border_w3_body",
+  "area": 0.039,
+  "depth": 0.13,
+  "at": [
+   0.55,
+   9.8
+  ]
+ },
+ {
+  "mesh": "props_Office",
+  "mat": "off_chair_body",
+  "area": 0.037,
+  "depth": 0.24,
+  "at": [
+   13.11,
+   17.04
+  ]
+ },
+ {
+  "mesh": "props_Garden",
+  "mat": "gar_o2_dark",
+  "area": 0.036,
+  "depth": 0.14,
+  "at": [
+   17.86,
+   23.62
+  ]
+ },
+ {
+  "mesh": "props_Office",
+  "mat": "off_chair_dark",
+  "area": 0.035,
+  "depth": 0.26,
+  "at": [
+   13.13,
+   17.04
+  ]
+ },
+ {
+  "mesh": "props_Office",
+  "mat": "off_chair_body",
+  "area": 0.033,
+  "depth": 0.11,
+  "at": [
+   13.16,
+   16.99
+  ]
+ },
+ {
+  "mesh": "props_Office",
+  "mat": "off_bin_in",
+  "area": 0.033,
+  "depth": 0.18,
+  "at": [
+   16.19,
+   19.51
+  ]
+ },
+ {
+  "mesh": "props_MedBay",
+  "mat": "mmed_scan_side",
+  "area": 0.032,
+  "depth": 0.18,
+  "at": [
+   15.75,
+   0.1
+  ]
+ },
+ {
+  "mesh": "props_MedBay",
+  "mat": "mmed_bed0_frame",
+  "area": 0.031,
+  "depth": 0.04,
+  "at": [
+   14.15,
+   0.8
+  ]
+ },
+ {
+  "mesh": "props_MedBay",
+  "mat": "mmed_bed1_frame",
+  "area": 0.031,
+  "depth": 0.04,
+  "at": [
+   15.54,
+   0.8
+  ]
+ },
+ {
+  "mesh": "props_MedBay",
+  "mat": "mmed_bed2_frame",
+  "area": 0.031,
+  "depth": 0.04,
+  "at": [
+   16.62,
+   0.8
+  ]
+ },
+ {
+  "mesh": "props_Office",
+  "mat": "off_chair_body",
+  "area": 0.03,
+  "depth": 0.11,
+  "at": [
+   15.24,
+   20.69
+  ]
+ },
+ {
+  "mesh": "props_Reactor",
+  "mat": "mrea_border_w3_body",
+  "area": 0.029,
+  "depth": 0.12,
+  "at": [
+   0.28,
+   9.8
+  ]
+ },
+ {
+  "mesh": "props_Reactor",
+  "mat": "mrea_border_w3_dark",
+  "area": 0.029,
+  "depth": 0.12,
+  "at": [
+   0.55,
+   9.8
+  ]
+ },
+ {
+  "mesh": "props_MedBay",
+  "mat": "mmed_bed0_frame",
+  "area": 0.027,
+  "depth": 0.04,
+  "at": [
+   14.15,
+   0.82
+  ]
+ },
+ {
+  "mesh": "props_MedBay",
+  "mat": "mmed_bed1_frame",
+  "area": 0.027,
+  "depth": 0.04,
+  "at": [
+   15.54,
+   0.82
+  ]
+ },
+ {
+  "mesh": "props_MedBay",
+  "mat": "mmed_bed2_frame",
+  "area": 0.027,
+  "depth": 0.04,
+  "at": [
+   16.62,
+   0.82
+  ]
+ },
+ {
+  "mesh": "props_Reactor",
+  "mat": "mrea_border_w0_dark",
+  "area": 0.024,
+  "depth": 0.05,
+  "at": [
+   0.64,
+   13.0
+  ]
+ },
+ {
+  "mesh": "props_Reactor",
+  "mat": "mrea_border_w1_dark",
+  "area": 0.023,
+  "depth": 0.05,
+  "at": [
+   0.64,
+   12.13
+  ]
+ },
+ {
+  "mesh": "props_Cafe",
+  "mat": "mcafe_shelf_item18",
+  "area": 0.022,
+  "depth": 0.1,
+  "at": [
+   28.97,
+   0.61
+  ]
+ },
+ {
+  "mesh": "props_MedBay",
+  "mat": "mmed_scan_mon_body",
+  "area": 0.022,
+  "depth": 0.17,
+  "at": [
+   15.75,
+   0.1
+  ]
+ },
+ {
+  "mesh": "props_Office",
+  "mat": "off_deskm_top",
+  "area": 0.022,
+  "depth": 0.05,
+  "at": [
+   13.57,
+   19.4
+  ]
+ },
+ {
+  "mesh": "props_Storage",
+  "mat": "msto_card2_edge",
+  "area": 0.016,
+  "depth": 0.12,
+  "at": [
+   20.08,
+   3.54
+  ]
+ },
+ {
+  "mesh": "props_Storage",
+  "mat": "msto_card2_body",
+  "area": 0.015,
+  "depth": 0.12,
+  "at": [
+   20.08,
+   3.54
+  ]
+ },
+ {
+  "mesh": "objects_Garden",
+  "mat": "obj_mira_97_screen",
+  "area": 0.015,
+  "depth": 0.01,
+  "at": [
+   21.49,
+   20.71
+  ]
+ },
+ {
+  "mesh": "props_Cafe",
+  "mat": "mcafe_shelf_item19",
+  "area": 0.014,
+  "depth": 0.13,
+  "at": [
+   28.97,
+   0.84
+  ]
+ },
+ {
+  "mesh": "props_Cafe",
+  "mat": "mcafe_shelf_body",
+  "area": 0.012,
+  "depth": 0.04,
+  "at": [
+   28.93,
+   0.5
+  ]
+ },
+ {
+  "mesh": "props_MedBay",
+  "mat": "mmed_scan_steel",
+  "area": 0.012,
+  "depth": 0.1,
+  "at": [
+   15.83,
+   0.36
+  ]
+ },
+ {
+  "mesh": "props_MedBay",
+  "mat": "mmed_scan_steel",
+  "area": 0.012,
+  "depth": 0.1,
+  "at": [
+   16.65,
+   0.36
+  ]
+ },
+ {
+  "mesh": "props_Admin",
+  "mat": "madm_map_hololine",
+  "area": 0.011,
+  "depth": 0.14,
+  "at": [
+   21.99,
+   19.61
+  ]
+ },
+ {
+  "mesh": "props_Garden",
+  "mat": "gar_pot0_pot",
+  "area": 0.011,
+  "depth": 0.08,
+  "at": [
+   20.08,
+   22.73
+  ]
+ },
+ {
+  "mesh": "props_Garden",
+  "mat": "gar_pot1_pot",
+  "area": 0.011,
+  "depth": 0.08,
+  "at": [
+   20.48,
+   22.73
+  ]
+ },
+ {
+  "mesh": "props_Garden",
+  "mat": "gar_pot2_pot",
+  "area": 0.011,
+  "depth": 0.08,
+  "at": [
+   20.88,
+   22.73
+  ]
+ },
+ {
+  "mesh": "props_MedBay",
+  "mat": "mmed_bed0_mattress",
+  "area": 0.011,
+  "depth": 0.02,
+  "at": [
+   14.15,
+   0.83
+  ]
+ },
+ {
+  "mesh": "props_MedBay",
+  "mat": "mmed_bed1_mattress",
+  "area": 0.011,
+  "depth": 0.02,
+  "at": [
+   15.54,
+   0.83
+  ]
+ },
+ {
+  "mesh": "props_MedBay",
+  "mat": "mmed_bed2_mattress",
+  "area": 0.011,
+  "depth": 0.02,
+  "at": [
+   16.62,
+   0.83
+  ]
+ }
+]

@@ -1,0 +1,752 @@
+[
+{
+"name": "DeconVent",
+"room": "Decontamination",
+"pos": [
+6.83,
+3.145
+],
+"cam": [
+6.83,
+4.64,
+0.62,
+270,
+-6
+]
+},
+{
+"name": "MedVent",
+"room": "MedBay",
+"pos": [
+15.41,
+-1.82
+],
+"cam": [
+16.16,
+-0.52,
+0.62,
+240,
+-6
+]
+},
+{
+"name": "MedScanner",
+"room": "MedBay",
+"pos": [
+16.233,
+0.262
+],
+"cam": [
+14.73,
+0.26,
+0.62,
+0,
+-6
+]
+},
+{
+"name": "DivertPowerConsole (8)",
+"room": "MedBay",
+"pos": [
+14.83,
+2.029
+],
+"cam": [
+15.58,
+3.33,
+0.62,
+240,
+-6
+]
+},
+{
+"name": "WeatherConsole",
+"room": "Balcony",
+"pos": [
+28.912,
+-1.701
+],
+"cam": [
+27.41,
+-1.7,
+0.62,
+0,
+-6
+]
+},
+{
+"name": "WeaponConsole",
+"room": "Weapons",
+"pos": [
+19.213,
+-2.414
+],
+"cam": [
+20.71,
+-2.41,
+0.62,
+180,
+-6
+]
+},
+{
+"name": "DivertPowerConsole (9)",
+"room": "Comms",
+"pos": [
+13.997,
+5.855
+],
+"cam": [
+14.0,
+7.36,
+0.62,
+270,
+-6
+]
+},
+{
+"name": "FixCommsConsole",
+"room": "Comms",
+"pos": [
+14.933,
+5.649
+],
+"cam": [
+13.87,
+4.59,
+0.62,
+45,
+-6
+]
+},
+{
+"name": "DivertPowerConsoleOffice",
+"room": "Greenhouse",
+"pos": [
+13.852,
+22.867
+],
+"cam": [
+15.35,
+22.87,
+0.62,
+180,
+-6
+]
+},
+{
+"name": "AgriVent",
+"room": "Greenhouse",
+"pos": [
+17.85,
+25.23
+],
+"cam": [
+16.4,
+24.84,
+0.62,
+15,
+-6
+]
+},
+{
+"name": "PlantConsole",
+"room": "Greenhouse",
+"pos": [
+20.486,
+22.78
+],
+"cam": [
+18.99,
+22.78,
+0.62,
+0,
+-6
+]
+},
+{
+"name": "FixWiringConsole",
+"room": "Greenhouse",
+"pos": [
+16.98,
+21.394
+],
+"cam": [
+18.04,
+22.45,
+0.62,
+225,
+-6
+]
+},
+{
+"name": "NoOxyConsole",
+"room": "Greenhouse",
+"pos": [
+17.857,
+24.366
+],
+"cam": [
+19.36,
+24.37,
+0.62,
+180,
+-6
+]
+},
+{
+"name": "CleanFilterConsole",
+"room": "Greenhouse",
+"pos": [
+17.221,
+24.505
+],
+"cam": [
+17.61,
+23.06,
+0.62,
+105,
+-6
+]
+},
+{
+"name": "OfficeVent",
+"room": "Office",
+"pos": [
+13.28,
+20.13
+],
+"cam": [
+14.78,
+20.13,
+0.62,
+180,
+-6
+]
+},
+{
+"name": "DivertPowerConsoleOffice",
+"room": "Office",
+"pos": [
+16.189,
+20.008
+],
+"cam": [
+17.69,
+20.01,
+0.62,
+180,
+-6
+]
+},
+{
+"name": "FixCommsConsole",
+"room": "Office",
+"pos": [
+13.67,
+19.348
+],
+"cam": [
+14.73,
+18.29,
+0.62,
+135,
+-6
+]
+},
+{
+"name": "SwitchConsole",
+"room": "Office",
+"pos": [
+14.802,
+21.384
+],
+"cam": [
+14.8,
+19.88,
+0.62,
+90,
+-6
+]
+},
+{
+"name": "DataConsole",
+"room": "Office",
+"pos": [
+15.776,
+21.403
+],
+"cam": [
+14.48,
+20.65,
+0.62,
+30,
+-6
+]
+},
+{
+"name": "AdminVent",
+"room": "Admin",
+"pos": [
+22.39,
+17.23
+],
+"cam": [
+22.39,
+18.73,
+0.62,
+270,
+-6
+]
+},
+{
+"name": "ShieldConsole",
+"room": "Admin",
+"pos": [
+21.169,
+17.945
+],
+"cam": [
+19.87,
+17.2,
+0.62,
+30,
+-6
+]
+},
+{
+"name": "EnterCodeConsole",
+"room": "Admin",
+"pos": [
+19.894,
+19.024
+],
+"cam": [
+18.45,
+19.41,
+0.62,
+345,
+-6
+]
+},
+{
+"name": "DivertPowerConsoleAdmin",
+"room": "Admin",
+"pos": [
+20.276,
+21.38
+],
+"cam": [
+19.22,
+20.32,
+0.62,
+45,
+-6
+]
+},
+{
+"name": "ChartCourseConsole",
+"room": "Admin",
+"pos": [
+22.225,
+21.231
+],
+"cam": [
+20.93,
+20.48,
+0.62,
+30,
+-6
+]
+},
+{
+"name": "LockerVent",
+"room": "LockerRoom",
+"pos": [
+4.29,
+0.53
+],
+"cam": [
+5.79,
+0.53,
+0.62,
+180,
+-6
+]
+},
+{
+"name": "FixWiringConsole (4)",
+"room": "LockerRoom",
+"pos": [
+4.356,
+2.534
+],
+"cam": [
+5.66,
+3.28,
+0.62,
+210,
+-6
+]
+},
+{
+"name": "NoOxyConsole",
+"room": "Hallway",
+"pos": [
+4.09,
+-0.3
+],
+"cam": [
+5.39,
+0.45,
+0.62,
+210,
+-6
+]
+},
+{
+"name": "FixWiringConsole",
+"room": "Laboratory",
+"pos": [
+6.125,
+14.958
+],
+"cam": [
+5.74,
+13.51,
+0.62,
+75,
+-6
+]
+},
+{
+"name": "LabVent",
+"room": "Laboratory",
+"pos": [
+11.606,
+13.816
+],
+"cam": [
+10.11,
+13.82,
+0.62,
+0,
+-6
+]
+},
+{
+"name": "AssembleArtifactConsole",
+"room": "Laboratory",
+"pos": [
+9.402,
+14.568
+],
+"cam": [
+8.65,
+13.27,
+0.62,
+60,
+-6
+]
+},
+{
+"name": "DivertPowerConsole (6)",
+"room": "Laboratory",
+"pos": [
+7.67,
+14.91
+],
+"cam": [
+6.37,
+14.16,
+0.62,
+30,
+-6
+]
+},
+{
+"name": "SortSamplesConsole",
+"room": "Laboratory",
+"pos": [
+9.66,
+11.115
+],
+"cam": [
+9.27,
+12.56,
+0.62,
+285,
+-6
+]
+},
+{
+"name": "DivertPowerConsoleMain",
+"room": "Reactor",
+"pos": [
+0.777,
+11.484
+],
+"cam": [
+2.28,
+11.48,
+0.62,
+180,
+-6
+]
+},
+{
+"name": "UnlockManifoldsConsole",
+"room": "Reactor",
+"pos": [
+0.442,
+13.256
+],
+"cam": [
+1.94,
+13.26,
+0.62,
+180,
+-6
+]
+},
+{
+"name": "RightHandConsole",
+"room": "Reactor",
+"pos": [
+4.603,
+14.962
+],
+"cam": [
+3.54,
+13.9,
+0.62,
+45,
+-6
+]
+},
+{
+"name": "LeftHandConsole",
+"room": "Reactor",
+"pos": [
+0.702,
+14.95
+],
+"cam": [
+1.09,
+13.5,
+0.62,
+105,
+-6
+]
+},
+{
+"name": "ReactorVent",
+"room": "Reactor",
+"pos": [
+0.48,
+10.697
+],
+"cam": [
+1.98,
+10.7,
+0.62,
+180,
+-6
+]
+},
+{
+"name": "StartReactorConsole",
+"room": "Reactor",
+"pos": [
+2.549,
+12.407
+],
+"cam": [
+4.05,
+12.41,
+0.62,
+180,
+-6
+]
+},
+{
+"name": "YHallRightVent",
+"room": "Hallway",
+"pos": [
+23.9,
+7.18
+],
+"cam": [
+22.45,
+7.57,
+0.62,
+345,
+-6
+]
+},
+{
+"name": "FixWiringConsole (2)",
+"room": "Hallway",
+"pos": [
+12.096,
+8.04
+],
+"cam": [
+11.71,
+6.59,
+0.62,
+75,
+-6
+]
+},
+{
+"name": "StorageConsole",
+"room": "Storage",
+"pos": [
+19.622,
+5.157
+],
+"cam": [
+18.87,
+3.86,
+0.62,
+60,
+-6
+]
+},
+{
+"name": "FixWiringConsole (3)",
+"room": "Storage",
+"pos": [
+18.39,
+1.2
+],
+"cam": [
+18.39,
+2.7,
+0.62,
+270,
+-6
+]
+},
+{
+"name": "DivertPowerConsole (3)",
+"room": "Cafeteria",
+"pos": [
+21.632,
+5.808
+],
+"cam": [
+22.93,
+6.56,
+0.62,
+210,
+-6
+]
+},
+{
+"name": "GarbageConsole",
+"room": "Cafeteria",
+"pos": [
+25.348,
+5.818
+],
+"cam": [
+24.05,
+5.07,
+0.62,
+30,
+-6
+]
+},
+{
+"name": "VendingMachineConsole",
+"room": "Cafeteria",
+"pos": [
+27.49,
+5.665
+],
+"cam": [
+26.04,
+5.28,
+0.62,
+15,
+-6
+]
+},
+{
+"name": "BalconyVent",
+"room": "Balcony",
+"pos": [
+23.77,
+-1.94
+],
+"cam": [
+25.27,
+-1.94,
+0.62,
+180,
+-6
+]
+},
+{
+"name": "LaunchVent",
+"room": "Launchpad",
+"pos": [
+-6.18,
+3.56
+],
+"cam": [
+-4.68,
+3.56,
+0.62,
+180,
+-6
+]
+},
+{
+"name": "CalibrateConsole",
+"room": "Launchpad",
+"pos": [
+-2.499,
+1.873
+],
+"cam": [
+-3.56,
+2.93,
+0.62,
+315,
+-6
+]
+},
+{
+"name": "DivertPowerConsole (10)",
+"room": "Launchpad",
+"pos": [
+-6.326,
+0.916
+],
+"cam": [
+-4.83,
+0.92,
+0.62,
+180,
+-6
+]
+},
+{
+"name": "gasCanConsole",
+"room": "Launchpad",
+"pos": [
+-6.434,
+2.264
+],
+"cam": [
+-4.93,
+2.26,
+0.62,
+180,
+-6
+]
+}
+]

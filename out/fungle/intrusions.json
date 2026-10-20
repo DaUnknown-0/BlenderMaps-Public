@@ -1,0 +1,632 @@
+[
+ {
+  "mesh": "mushrooms",
+  "mat": "fu_cap",
+  "area": 0.841,
+  "depth": 0.87,
+  "at": [
+   -5.57,
+   -14.46
+  ]
+ },
+ {
+  "mesh": "fungle_props",
+  "mat": "fu_box_95_47_62",
+  "area": 0.58,
+  "depth": 1.12,
+  "at": [
+   13.17,
+   -12.96
+  ]
+ },
+ {
+  "mesh": "fungle_props",
+  "mat": "fu_box_61_30_47",
+  "area": 0.545,
+  "depth": 0.55,
+  "at": [
+   14.91,
+   -7.03
+  ]
+ },
+ {
+  "mesh": "mushrooms",
+  "mat": "fu_ring",
+  "area": 0.51,
+  "depth": 0.69,
+  "at": [
+   -5.55,
+   -14.39
+  ]
+ },
+ {
+  "mesh": "fungle_props",
+  "mat": "fu_box_61_30_47",
+  "area": 0.471,
+  "depth": 0.55,
+  "at": [
+   15.94,
+   -15.63
+  ]
+ },
+ {
+  "mesh": "fungle_props",
+  "mat": "fu_box_100_108_116",
+  "area": 0.462,
+  "depth": 0.94,
+  "at": [
+   0.91,
+   1.5
+  ]
+ },
+ {
+  "mesh": "mushrooms",
+  "mat": "fu_cap",
+  "area": 0.443,
+  "depth": 0.53,
+  "at": [
+   -6.38,
+   -6.28
+  ]
+ },
+ {
+  "mesh": "fungle_props",
+  "mat": "fu_box_61_30_47",
+  "area": 0.427,
+  "depth": 0.55,
+  "at": [
+   5.43,
+   -5.97
+  ]
+ },
+ {
+  "mesh": "fungle_props",
+  "mat": "fu_box_117_112_95",
+  "area": 0.422,
+  "depth": 0.52,
+  "at": [
+   -20.27,
+   -2.44
+  ]
+ },
+ {
+  "mesh": "fungle_props",
+  "mat": "fu_box_117_112_95",
+  "area": 0.422,
+  "depth": 0.52,
+  "at": [
+   3.17,
+   1.5
+  ]
+ },
+ {
+  "mesh": "fungle_props",
+  "mat": "fu_box_117_112_95",
+  "area": 0.422,
+  "depth": 0.52,
+  "at": [
+   -7.94,
+   -1.95
+  ]
+ },
+ {
+  "mesh": "fungle_props",
+  "mat": "fu_box_102_51_46",
+  "area": 0.4,
+  "depth": 0.53,
+  "at": [
+   -11.92,
+   -3.23
+  ]
+ },
+ {
+  "mesh": "fungle_furniture",
+  "mat": "fu_dorm_bed3_frame",
+  "area": 0.391,
+  "depth": 0.41,
+  "at": [
+   0.74,
+   -2.62
+  ]
+ },
+ {
+  "mesh": "fungle_props",
+  "mat": "fu_box_117_112_95",
+  "area": 0.39,
+  "depth": 0.52,
+  "at": [
+   -3.18,
+   8.11
+  ]
+ },
+ {
+  "mesh": "fungle_furniture",
+  "mat": "fu_dorm_bed3_mattress",
+  "area": 0.358,
+  "depth": 0.39,
+  "at": [
+   0.74,
+   -2.63
+  ]
+ },
+ {
+  "mesh": "fungle_props",
+  "mat": "fu_box_102_51_46",
+  "area": 0.291,
+  "depth": 0.53,
+  "at": [
+   -19.7,
+   -5.17
+  ]
+ },
+ {
+  "mesh": "fungle_props",
+  "mat": "fu_box_138_117_94",
+  "area": 0.25,
+  "depth": 0.29,
+  "at": [
+   -18.39,
+   -4.06
+  ]
+ },
+ {
+  "mesh": "fungle_props",
+  "mat": "fu_box_138_117_94",
+  "area": 0.25,
+  "depth": 0.29,
+  "at": [
+   -20.09,
+   3.09
+  ]
+ },
+ {
+  "mesh": "fungle_props",
+  "mat": "fu_box_138_117_94",
+  "area": 0.25,
+  "depth": 0.29,
+  "at": [
+   -11.35,
+   7.68
+  ]
+ },
+ {
+  "mesh": "mushrooms",
+  "mat": "fu_ring",
+  "area": 0.22,
+  "depth": 0.37,
+  "at": [
+   -6.4,
+   -6.2
+  ]
+ },
+ {
+  "mesh": "fungle_props",
+  "mat": "fu_box_106_118_101",
+  "area": 0.219,
+  "depth": 0.57,
+  "at": [
+   -13.24,
+   -6.83
+  ]
+ },
+ {
+  "mesh": "mushrooms",
+  "mat": "fu_cap",
+  "area": 0.216,
+  "depth": 0.47,
+  "at": [
+   -6.82,
+   -6.27
+  ]
+ },
+ {
+  "mesh": "fungle_furniture",
+  "mat": "fu_dorm_bed3_blanket",
+  "area": 0.209,
+  "depth": 0.38,
+  "at": [
+   0.85,
+   -2.64
+  ]
+ },
+ {
+  "mesh": "fungle_props",
+  "mat": "fu_box_138_117_94",
+  "area": 0.206,
+  "depth": 0.29,
+  "at": [
+   -9.39,
+   -3.71
+  ]
+ },
+ {
+  "mesh": "fungle_props",
+  "mat": "fu_box_82_105_100",
+  "area": 0.187,
+  "depth": 0.46,
+  "at": [
+   3.01,
+   -1.49
+  ]
+ },
+ {
+  "mesh": "fungle_props",
+  "mat": "fu_box_104_89_84",
+  "area": 0.158,
+  "depth": 0.15,
+  "at": [
+   -16.64,
+   -8.42
+  ]
+ },
+ {
+  "mesh": "fungle_furniture",
+  "mat": "fu_furn9_top",
+  "area": 0.153,
+  "depth": 1.17,
+  "at": [
+   -16.01,
+   6.22
+  ]
+ },
+ {
+  "mesh": "fungle_furniture",
+  "mat": "fu_furn9_cush0",
+  "area": 0.151,
+  "depth": 0.37,
+  "at": [
+   -13.86,
+   6.21
+  ]
+ },
+ {
+  "mesh": "fungle_furniture",
+  "mat": "fu_furn9_cush1",
+  "area": 0.151,
+  "depth": 0.4,
+  "at": [
+   -15.21,
+   6.82
+  ]
+ },
+ {
+  "mesh": "fungle_furniture",
+  "mat": "fu_furn9_cush2",
+  "area": 0.151,
+  "depth": 0.47,
+  "at": [
+   -17.45,
+   6.84
+  ]
+ },
+ {
+  "mesh": "fungle_furniture",
+  "mat": "fu_furn9_cush4",
+  "area": 0.151,
+  "depth": 0.5,
+  "at": [
+   -18.44,
+   5.5
+  ]
+ },
+ {
+  "mesh": "fungle_furniture",
+  "mat": "fu_furn9_cush5",
+  "area": 0.151,
+  "depth": 0.36,
+  "at": [
+   -16.45,
+   5.15
+  ]
+ },
+ {
+  "mesh": "fungle_props",
+  "mat": "fu_box_132_76_114",
+  "area": 0.143,
+  "depth": 0.6,
+  "at": [
+   17.79,
+   -11.92
+  ]
+ },
+ {
+  "mesh": "fungle_furniture",
+  "mat": "fu_furn9_cush3",
+  "area": 0.143,
+  "depth": 0.46,
+  "at": [
+   -18.9,
+   6.26
+  ]
+ },
+ {
+  "mesh": "fungle_furniture",
+  "mat": "fu_furn9_cush6",
+  "area": 0.122,
+  "depth": 0.37,
+  "at": [
+   -14.41,
+   5.43
+  ]
+ },
+ {
+  "mesh": "fungle_props",
+  "mat": "fu_box_163_159_128",
+  "area": 0.121,
+  "depth": 0.85,
+  "at": [
+   -21.43,
+   0.42
+  ]
+ },
+ {
+  "mesh": "fungle_props",
+  "mat": "fu_box_186_147_86",
+  "area": 0.119,
+  "depth": 0.35,
+  "at": [
+   -2.88,
+   1.5
+  ]
+ },
+ {
+  "mesh": "fungle_props",
+  "mat": "fu_box_105_54_87",
+  "area": 0.113,
+  "depth": 0.33,
+  "at": [
+   14.27,
+   -9.68
+  ]
+ },
+ {
+  "mesh": "mushrooms",
+  "mat": "fu_ring",
+  "area": 0.107,
+  "depth": 0.36,
+  "at": [
+   -6.83,
+   -6.21
+  ]
+ },
+ {
+  "mesh": "fungle_props",
+  "mat": "fu_box_127_115_100",
+  "area": 0.091,
+  "depth": 0.2,
+  "at": [
+   -18.65,
+   -0.97
+  ]
+ },
+ {
+  "mesh": "fungle_props",
+  "mat": "fu_box_105_54_87",
+  "area": 0.067,
+  "depth": 0.33,
+  "at": [
+   20.02,
+   -11.27
+  ]
+ },
+ {
+  "mesh": "fungle_props",
+  "mat": "fu_box_105_54_87",
+  "area": 0.067,
+  "depth": 0.33,
+  "at": [
+   13.3,
+   -16.45
+  ]
+ },
+ {
+  "mesh": "fungle_props",
+  "mat": "fu_box_105_54_87",
+  "area": 0.066,
+  "depth": 0.31,
+  "at": [
+   11.75,
+   -13.85
+  ]
+ },
+ {
+  "mesh": "fungle_props",
+  "mat": "fu_box_105_54_87",
+  "area": 0.065,
+  "depth": 0.33,
+  "at": [
+   1.07,
+   -10.29
+  ]
+ },
+ {
+  "mesh": "fungle_props",
+  "mat": "fu_box_105_54_87",
+  "area": 0.063,
+  "depth": 0.33,
+  "at": [
+   -4.64,
+   -14.29
+  ]
+ },
+ {
+  "mesh": "fungle_props",
+  "mat": "fu_box_33_32_43",
+  "area": 0.059,
+  "depth": 0.29,
+  "at": [
+   -18.83,
+   0.29
+  ]
+ },
+ {
+  "mesh": "fungle_furniture",
+  "mat": "fu_dorm_bed1_frame",
+  "area": 0.057,
+  "depth": 0.25,
+  "at": [
+   0.8,
+   -1.12
+  ]
+ },
+ {
+  "mesh": "fungle_props",
+  "mat": "fu_box_105_54_87",
+  "area": 0.054,
+  "depth": 0.16,
+  "at": [
+   6.23,
+   -13.99
+  ]
+ },
+ {
+  "mesh": "fungle_props",
+  "mat": "fu_box_105_54_87",
+  "area": 0.051,
+  "depth": 0.33,
+  "at": [
+   9.03,
+   -6.71
+  ]
+ },
+ {
+  "mesh": "fungle_furniture",
+  "mat": "fu_dorm_bed3_pillow",
+  "area": 0.05,
+  "depth": 0.22,
+  "at": [
+   0.29,
+   -2.64
+  ]
+ },
+ {
+  "mesh": "mushrooms",
+  "mat": "fu_white",
+  "area": 0.045,
+  "depth": 0.3,
+  "at": [
+   0.02,
+   -7.42
+  ]
+ },
+ {
+  "mesh": "fungle_furniture",
+  "mat": "fu_dorm_bed1_mattress",
+  "area": 0.044,
+  "depth": 0.22,
+  "at": [
+   0.8,
+   -1.11
+  ]
+ },
+ {
+  "mesh": "fungle_furniture",
+  "mat": "fu_dorm_bed2_frame",
+  "area": 0.035,
+  "depth": 0.11,
+  "at": [
+   2.01,
+   -1.14
+  ]
+ },
+ {
+  "mesh": "mushrooms",
+  "mat": "fu_stem",
+  "area": 0.028,
+  "depth": 0.16,
+  "at": [
+   -5.59,
+   -14.21
+  ]
+ },
+ {
+  "mesh": "fungle_furniture",
+  "mat": "fu_furn2_edge",
+  "area": 0.028,
+  "depth": 0.73,
+  "at": [
+   -7.48,
+   0.42
+  ]
+ },
+ {
+  "mesh": "fungle_furniture",
+  "mat": "fu_dorm_bed2_frame",
+  "area": 0.025,
+  "depth": 0.04,
+  "at": [
+   2.11,
+   -1.18
+  ]
+ },
+ {
+  "mesh": "fungle_furniture",
+  "mat": "fu_furn2_body",
+  "area": 0.024,
+  "depth": 0.72,
+  "at": [
+   -7.47,
+   0.42
+  ]
+ },
+ {
+  "mesh": "fungle_furniture",
+  "mat": "fu_dorm_bed1_blanket",
+  "area": 0.022,
+  "depth": 0.16,
+  "at": [
+   0.74,
+   -1.12
+  ]
+ },
+ {
+  "mesh": "fungle_furniture",
+  "mat": "fu_dorm_bed2_mattress",
+  "area": 0.022,
+  "depth": 0.09,
+  "at": [
+   1.98,
+   -1.13
+  ]
+ },
+ {
+  "mesh": "fungle_props",
+  "mat": "fu_box_42_71_56",
+  "area": 0.016,
+  "depth": 0.14,
+  "at": [
+   -16.21,
+   -1.88
+  ]
+ },
+ {
+  "mesh": "fungle_furniture",
+  "mat": "fu_dorm_bed2_blanket",
+  "area": 0.015,
+  "depth": 0.08,
+  "at": [
+   1.97,
+   -1.12
+  ]
+ },
+ {
+  "mesh": "fungle_furniture",
+  "mat": "fu_dorm_bed3_frame",
+  "area": 0.012,
+  "depth": 0.04,
+  "at": [
+   1.33,
+   -2.6
+  ]
+ },
+ {
+  "mesh": "fungle_furniture",
+  "mat": "fu_dorm_bed1_frame",
+  "area": 0.01,
+  "depth": 0.04,
+  "at": [
+   0.95,
+   -1.07
+  ]
+ }
+]

@@ -1,0 +1,1312 @@
+[
+ {
+  "mesh": "props_Medical",
+  "mat": "med_scan_side",
+  "area": 1.081,
+  "depth": 1.04,
+  "at": [
+   -7.35,
+   -5.26
+  ]
+ },
+ {
+  "mesh": "props_Medical",
+  "mat": "med_scan_top",
+  "area": 0.908,
+  "depth": 0.98,
+  "at": [
+   -7.35,
+   -5.28
+  ]
+ },
+ {
+  "mesh": "props_Weapons",
+  "mat": "weap_base",
+  "area": 0.702,
+  "depth": 1.09,
+  "at": [
+   9.02,
+   1.21
+  ]
+ },
+ {
+  "mesh": "props_Medical",
+  "mat": "med_scan_rim",
+  "area": 0.525,
+  "depth": 0.82,
+  "at": [
+   -7.35,
+   -5.31
+  ]
+ },
+ {
+  "mesh": "props_Shields",
+  "mat": "shi_step",
+  "area": 0.524,
+  "depth": 0.42,
+  "at": [
+   8.06,
+   -14.47
+  ]
+ },
+ {
+  "mesh": "props_Shields",
+  "mat": "shi_step_top",
+  "area": 0.481,
+  "depth": 0.4,
+  "at": [
+   8.03,
+   -14.48
+  ]
+ },
+ {
+  "mesh": "props_Medical",
+  "mat": "med_scan_ring",
+  "area": 0.405,
+  "depth": 0.72,
+  "at": [
+   -7.35,
+   -5.31
+  ]
+ },
+ {
+  "mesh": "props_Cafeteria",
+  "mat": "caf_table_side",
+  "area": 0.378,
+  "depth": 1.25,
+  "at": [
+   -2.59,
+   -2.79
+  ]
+ },
+ {
+  "mesh": "props_Cafeteria",
+  "mat": "caf_table_side",
+  "area": 0.377,
+  "depth": 1.25,
+  "at": [
+   2.36,
+   2.4
+  ]
+ },
+ {
+  "mesh": "props_Cafeteria",
+  "mat": "caf_table_side",
+  "area": 0.376,
+  "depth": 1.25,
+  "at": [
+   -0.05,
+   -0.25
+  ]
+ },
+ {
+  "mesh": "props_Cafeteria",
+  "mat": "caf_table_side",
+  "area": 0.375,
+  "depth": 1.25,
+  "at": [
+   -2.57,
+   2.38
+  ]
+ },
+ {
+  "mesh": "props_Cafeteria",
+  "mat": "caf_table_side",
+  "area": 0.375,
+  "depth": 1.25,
+  "at": [
+   2.39,
+   -2.8
+  ]
+ },
+ {
+  "mesh": "props_Cafeteria",
+  "mat": "caf_table_side",
+  "area": 0.33,
+  "depth": 0.99,
+  "at": [
+   0.84,
+   2.3
+  ]
+ },
+ {
+  "mesh": "props_Cafeteria",
+  "mat": "caf_table_side",
+  "area": 0.329,
+  "depth": 0.98,
+  "at": [
+   0.88,
+   -2.9
+  ]
+ },
+ {
+  "mesh": "props_Cafeteria",
+  "mat": "caf_table_side",
+  "area": 0.328,
+  "depth": 0.98,
+  "at": [
+   -4.08,
+   2.28
+  ]
+ },
+ {
+  "mesh": "props_Cafeteria",
+  "mat": "caf_table_side",
+  "area": 0.327,
+  "depth": 0.98,
+  "at": [
+   -1.56,
+   -0.35
+  ]
+ },
+ {
+  "mesh": "props_Cafeteria",
+  "mat": "caf_table_side",
+  "area": 0.326,
+  "depth": 0.98,
+  "at": [
+   -4.11,
+   -2.9
+  ]
+ },
+ {
+  "mesh": "props_LeftEngine",
+  "mat": "eng_footL-18_side",
+  "area": 0.324,
+  "depth": 0.36,
+  "at": [
+   -18.7,
+   0.73
+  ]
+ },
+ {
+  "mesh": "props_LeftEngine",
+  "mat": "eng_footL-17_side",
+  "area": 0.324,
+  "depth": 0.36,
+  "at": [
+   -17.0,
+   0.73
+  ]
+ },
+ {
+  "mesh": "props_RightEngine",
+  "mat": "eng_footR-18_side",
+  "area": 0.324,
+  "depth": 0.36,
+  "at": [
+   -18.7,
+   -11.48
+  ]
+ },
+ {
+  "mesh": "props_RightEngine",
+  "mat": "eng_footR-17_side",
+  "area": 0.324,
+  "depth": 0.36,
+  "at": [
+   -17.0,
+   -11.48
+  ]
+ },
+ {
+  "mesh": "props_Weapons",
+  "mat": "weap_base_in",
+  "area": 0.318,
+  "depth": 0.66,
+  "at": [
+   9.03,
+   1.23
+  ]
+ },
+ {
+  "mesh": "props_Admin",
+  "mat": "vent_Admin_Ground_AdminVent_frame",
+  "area": 0.223,
+  "depth": 0.41,
+  "at": [
+   2.54,
+   -10.01
+  ]
+ },
+ {
+  "mesh": "props_BigYHallway",
+  "mat": "vent_BigYHallway_BigYVent_frame",
+  "area": 0.223,
+  "depth": 0.41,
+  "at": [
+   9.38,
+   -6.49
+  ]
+ },
+ {
+  "mesh": "props_Cockpit",
+  "mat": "vent_Cockpit_NavVentNorth_frame",
+  "area": 0.223,
+  "depth": 0.41,
+  "at": [
+   16.01,
+   -3.22
+  ]
+ },
+ {
+  "mesh": "props_Cockpit",
+  "mat": "vent_Cockpit_NavVentSouth_frame",
+  "area": 0.223,
+  "depth": 0.41,
+  "at": [
+   16.01,
+   -6.44
+  ]
+ },
+ {
+  "mesh": "props_Electrical",
+  "mat": "vent_Electrical_ElecVent_frame",
+  "area": 0.223,
+  "depth": 0.41,
+  "at": [
+   -9.78,
+   -8.09
+  ]
+ },
+ {
+  "mesh": "props_LeftEngine",
+  "mat": "vent_LeftEngine_LEngineVent_frame",
+  "area": 0.223,
+  "depth": 0.41,
+  "at": [
+   -15.29,
+   2.47
+  ]
+ },
+ {
+  "mesh": "props_Medical",
+  "mat": "vent_Medical_Ground_MedVent_frame",
+  "area": 0.223,
+  "depth": 0.41,
+  "at": [
+   -10.61,
+   -4.23
+  ]
+ },
+ {
+  "mesh": "props_Reactor",
+  "mat": "vent_Reactor_Ground_ReactorVent_frame",
+  "area": 0.223,
+  "depth": 0.41,
+  "at": [
+   -20.8,
+   -7.01
+  ]
+ },
+ {
+  "mesh": "props_Reactor",
+  "mat": "vent_Reactor_Ground_UpperReactorVent_frame",
+  "area": 0.223,
+  "depth": 0.41,
+  "at": [
+   -21.88,
+   -3.11
+  ]
+ },
+ {
+  "mesh": "props_RightEngine",
+  "mat": "vent_RightEngine_Ground_REngineVent_frame",
+  "area": 0.223,
+  "depth": 0.41,
+  "at": [
+   -15.25,
+   -13.71
+  ]
+ },
+ {
+  "mesh": "props_Security",
+  "mat": "vent_Security_Ground_SecurityVent_frame",
+  "area": 0.223,
+  "depth": 0.41,
+  "at": [
+   -12.53,
+   -7.0
+  ]
+ },
+ {
+  "mesh": "props_Weapons",
+  "mat": "vent_Weapons_WeaponsVent_frame",
+  "area": 0.223,
+  "depth": 0.41,
+  "at": [
+   8.82,
+   3.27
+  ]
+ },
+ {
+  "mesh": "objects_Cafeteria",
+  "mat": "obj_skeld_29_frame",
+  "area": 0.223,
+  "depth": 0.41,
+  "at": [
+   4.26,
+   -0.33
+  ]
+ },
+ {
+  "mesh": "props_Shields",
+  "mat": "vent_Shields_ShieldsVent_frame",
+  "area": 0.222,
+  "depth": 0.41,
+  "at": [
+   9.52,
+   -14.39
+  ]
+ },
+ {
+  "mesh": "props_Cafeteria",
+  "mat": "caf_table_side",
+  "area": 0.184,
+  "depth": 0.71,
+  "at": [
+   -0.26,
+   1.91
+  ]
+ },
+ {
+  "mesh": "props_Cafeteria",
+  "mat": "caf_table_side",
+  "area": 0.184,
+  "depth": 0.71,
+  "at": [
+   -2.8,
+   -0.64
+  ]
+ },
+ {
+  "mesh": "props_Cafeteria",
+  "mat": "caf_table_side",
+  "area": 0.183,
+  "depth": 0.71,
+  "at": [
+   -2.78,
+   4.54
+  ]
+ },
+ {
+  "mesh": "props_Cafeteria",
+  "mat": "caf_table_side",
+  "area": 0.182,
+  "depth": 0.71,
+  "at": [
+   2.18,
+   -0.64
+  ]
+ },
+ {
+  "mesh": "props_Cafeteria",
+  "mat": "caf_table_side",
+  "area": 0.18,
+  "depth": 0.7,
+  "at": [
+   2.14,
+   4.56
+  ]
+ },
+ {
+  "mesh": "props_Cafeteria",
+  "mat": "caf_table_side",
+  "area": 0.165,
+  "depth": 0.78,
+  "at": [
+   -3.95,
+   4.56
+  ]
+ },
+ {
+  "mesh": "props_Cafeteria",
+  "mat": "caf_table_side",
+  "area": 0.165,
+  "depth": 0.78,
+  "at": [
+   -1.42,
+   1.93
+  ]
+ },
+ {
+  "mesh": "props_Cafeteria",
+  "mat": "caf_table_side",
+  "area": 0.165,
+  "depth": 0.78,
+  "at": [
+   1.02,
+   -0.62
+  ]
+ },
+ {
+  "mesh": "props_Comms",
+  "mat": "com_radio_body",
+  "area": 0.165,
+  "depth": 0.21,
+  "at": [
+   3.6,
+   -14.88
+  ]
+ },
+ {
+  "mesh": "props_Cafeteria",
+  "mat": "caf_table_side",
+  "area": 0.162,
+  "depth": 0.77,
+  "at": [
+   0.98,
+   4.58
+  ]
+ },
+ {
+  "mesh": "props_Cafeteria",
+  "mat": "caf_table_side",
+  "area": 0.162,
+  "depth": 0.77,
+  "at": [
+   -3.96,
+   -0.62
+  ]
+ },
+ {
+  "mesh": "props_Comms",
+  "mat": "com_radio_dark",
+  "area": 0.136,
+  "depth": 0.17,
+  "at": [
+   3.6,
+   -14.87
+  ]
+ },
+ {
+  "mesh": "props_Comms",
+  "mat": "com_radio_dark",
+  "area": 0.122,
+  "depth": 0.15,
+  "at": [
+   3.6,
+   -14.86
+  ]
+ },
+ {
+  "mesh": "props_Comms",
+  "mat": "com_chair_body",
+  "area": 0.111,
+  "depth": 0.31,
+  "at": [
+   3.77,
+   -16.72
+  ]
+ },
+ {
+  "mesh": "props_LifeSupport",
+  "mat": "o2_plant_62_rim",
+  "area": 0.107,
+  "depth": 0.2,
+  "at": [
+   6.6,
+   -4.98
+  ]
+ },
+ {
+  "mesh": "props_LeftEngine",
+  "mat": "eng_fuelL_body",
+  "area": 0.106,
+  "depth": 0.48,
+  "at": [
+   -18.39,
+   -0.3
+  ]
+ },
+ {
+  "mesh": "props_RightEngine",
+  "mat": "eng_fuelR_body",
+  "area": 0.105,
+  "depth": 0.47,
+  "at": [
+   -18.39,
+   -12.5
+  ]
+ },
+ {
+  "mesh": "props_LifeSupport",
+  "mat": "o2_plant_48_rim",
+  "area": 0.102,
+  "depth": 0.17,
+  "at": [
+   5.2,
+   -4.97
+  ]
+ },
+ {
+  "mesh": "props_LifeSupport",
+  "mat": "o2_plant_62_trough",
+  "area": 0.099,
+  "depth": 0.18,
+  "at": [
+   6.6,
+   -4.99
+  ]
+ },
+ {
+  "mesh": "props_LifeSupport",
+  "mat": "o2_plant_48_trough",
+  "area": 0.095,
+  "depth": 0.16,
+  "at": [
+   5.19,
+   -4.98
+  ]
+ },
+ {
+  "mesh": "props_Storage",
+  "mat": "sto_crate_side",
+  "area": 0.089,
+  "depth": 0.51,
+  "at": [
+   -4.16,
+   -12.91
+  ]
+ },
+ {
+  "mesh": "props_LifeSupport",
+  "mat": "o2_plant_62_trough",
+  "area": 0.085,
+  "depth": 0.17,
+  "at": [
+   6.59,
+   -5.0
+  ]
+ },
+ {
+  "mesh": "props_RightEngine",
+  "mat": "eng_fuelR_dark",
+  "area": 0.085,
+  "depth": 0.44,
+  "at": [
+   -18.41,
+   -12.49
+  ]
+ },
+ {
+  "mesh": "props_LeftEngine",
+  "mat": "eng_fuelL_dark",
+  "area": 0.082,
+  "depth": 0.44,
+  "at": [
+   -18.39,
+   -0.29
+  ]
+ },
+ {
+  "mesh": "props_Comms",
+  "mat": "com_chair_dark",
+  "area": 0.08,
+  "depth": 0.31,
+  "at": [
+   3.78,
+   -16.73
+  ]
+ },
+ {
+  "mesh": "props_LifeSupport",
+  "mat": "o2_plant_48_trough",
+  "area": 0.08,
+  "depth": 0.14,
+  "at": [
+   5.18,
+   -4.99
+  ]
+ },
+ {
+  "mesh": "objects_Reactor",
+  "mat": "obj_skeld_119_body",
+  "area": 0.079,
+  "depth": 0.25,
+  "at": [
+   -22.66,
+   -6.36
+  ]
+ },
+ {
+  "mesh": "props_RightEngine",
+  "mat": "eng_fuelR_dark",
+  "area": 0.074,
+  "depth": 0.42,
+  "at": [
+   -18.41,
+   -12.49
+  ]
+ },
+ {
+  "mesh": "props_LifeSupport",
+  "mat": "o2_plant_62_soil",
+  "area": 0.072,
+  "depth": 0.14,
+  "at": [
+   6.57,
+   -5.01
+  ]
+ },
+ {
+  "mesh": "props_LeftEngine",
+  "mat": "eng_fuelL_dark",
+  "area": 0.07,
+  "depth": 0.42,
+  "at": [
+   -18.39,
+   -0.28
+  ]
+ },
+ {
+  "mesh": "objects_Reactor",
+  "mat": "obj_skeld_119_dark",
+  "area": 0.069,
+  "depth": 0.23,
+  "at": [
+   -22.67,
+   -6.35
+  ]
+ },
+ {
+  "mesh": "props_LifeSupport",
+  "mat": "o2_plant_48_soil",
+  "area": 0.066,
+  "depth": 0.12,
+  "at": [
+   5.17,
+   -5.0
+  ]
+ },
+ {
+  "mesh": "props_Shields",
+  "mat": "shi_console_body",
+  "area": 0.054,
+  "depth": 0.15,
+  "at": [
+   7.6,
+   -14.34
+  ]
+ },
+ {
+  "mesh": "props_Storage",
+  "mat": "sto_barrel_label",
+  "area": 0.054,
+  "depth": 0.29,
+  "at": [
+   -4.2,
+   -10.31
+  ]
+ },
+ {
+  "mesh": "props_Storage",
+  "mat": "sto_barrel",
+  "area": 0.052,
+  "depth": 0.29,
+  "at": [
+   -4.2,
+   -10.3
+  ]
+ },
+ {
+  "mesh": "props_Comms",
+  "mat": "com_chair_body",
+  "area": 0.051,
+  "depth": 0.11,
+  "at": [
+   3.8,
+   -16.62
+  ]
+ },
+ {
+  "mesh": "props_Storage",
+  "mat": "sto_barrel_ring",
+  "area": 0.047,
+  "depth": 0.27,
+  "at": [
+   -4.21,
+   -10.3
+  ]
+ },
+ {
+  "mesh": "props_Storage",
+  "mat": "sto_barrel_label",
+  "area": 0.045,
+  "depth": 0.26,
+  "at": [
+   -4.68,
+   -10.92
+  ]
+ },
+ {
+  "mesh": "props_Weapons",
+  "mat": "weap_seat_body",
+  "area": 0.045,
+  "depth": 0.19,
+  "at": [
+   9.05,
+   1.29
+  ]
+ },
+ {
+  "mesh": "props_Shields",
+  "mat": "shi_console_dark",
+  "area": 0.044,
+  "depth": 0.13,
+  "at": [
+   7.59,
+   -14.33
+  ]
+ },
+ {
+  "mesh": "props_Storage",
+  "mat": "sto_barrel",
+  "area": 0.043,
+  "depth": 0.26,
+  "at": [
+   -4.68,
+   -10.92
+  ]
+ },
+ {
+  "mesh": "props_Shields",
+  "mat": "shi_console_dark",
+  "area": 0.04,
+  "depth": 0.12,
+  "at": [
+   7.59,
+   -14.33
+  ]
+ },
+ {
+  "mesh": "props_Cafeteria",
+  "mat": "caf_table_side",
+  "area": 0.038,
+  "depth": 0.09,
+  "at": [
+   1.51,
+   2.32
+  ]
+ },
+ {
+  "mesh": "props_Storage",
+  "mat": "sto_barrel_ring",
+  "area": 0.038,
+  "depth": 0.24,
+  "at": [
+   -4.68,
+   -10.92
+  ]
+ },
+ {
+  "mesh": "props_Cafeteria",
+  "mat": "caf_table_side",
+  "area": 0.037,
+  "depth": 0.08,
+  "at": [
+   -3.44,
+   -2.88
+  ]
+ },
+ {
+  "mesh": "props_Cafeteria",
+  "mat": "caf_table_side",
+  "area": 0.037,
+  "depth": 0.08,
+  "at": [
+   1.55,
+   -2.88
+  ]
+ },
+ {
+  "mesh": "props_LifeSupport",
+  "mat": "o2_fan_69_fan71_ring",
+  "area": 0.037,
+  "depth": 0.26,
+  "at": [
+   7.09,
+   -4.18
+  ]
+ },
+ {
+  "mesh": "props_Cafeteria",
+  "mat": "caf_table_side",
+  "area": 0.036,
+  "depth": 0.08,
+  "at": [
+   -3.41,
+   2.3
+  ]
+ },
+ {
+  "mesh": "props_Cafeteria",
+  "mat": "caf_table_side",
+  "area": 0.036,
+  "depth": 0.08,
+  "at": [
+   -0.89,
+   -0.33
+  ]
+ },
+ {
+  "mesh": "props_LifeSupport",
+  "mat": "o2_fan_55_fan57_ring",
+  "area": 0.032,
+  "depth": 0.23,
+  "at": [
+   5.69,
+   -4.19
+  ]
+ },
+ {
+  "mesh": "props_Medical",
+  "mat": "med_scan_side",
+  "area": 0.032,
+  "depth": 0.18,
+  "at": [
+   -7.88,
+   -5.13
+  ]
+ },
+ {
+  "mesh": "props_Weapons",
+  "mat": "weap_seat_dark",
+  "area": 0.032,
+  "depth": 0.2,
+  "at": [
+   9.05,
+   1.29
+  ]
+ },
+ {
+  "mesh": "props_LifeSupport",
+  "mat": "o2_filter_body",
+  "area": 0.031,
+  "depth": 0.23,
+  "at": [
+   5.89,
+   -3.29
+  ]
+ },
+ {
+  "mesh": "props_Storage",
+  "mat": "sto_crate_side",
+  "area": 0.03,
+  "depth": 0.17,
+  "at": [
+   -3.09,
+   -9.72
+  ]
+ },
+ {
+  "mesh": "props_Cockpit",
+  "mat": "nav_chair_body",
+  "area": 0.026,
+  "depth": 0.15,
+  "at": [
+   17.55,
+   -3.97
+  ]
+ },
+ {
+  "mesh": "props_Medical",
+  "mat": "med_mattress_side",
+  "area": 0.025,
+  "depth": 0.52,
+  "at": [
+   -10.48,
+   -2.07
+  ]
+ },
+ {
+  "mesh": "props_Storage",
+  "mat": "sto_blue_body",
+  "area": 0.025,
+  "depth": 0.05,
+  "at": [
+   -3.33,
+   -13.28
+  ]
+ },
+ {
+  "mesh": "props_Storage",
+  "mat": "sto_crate_side",
+  "area": 0.025,
+  "depth": 0.27,
+  "at": [
+   -1.58,
+   -14.74
+  ]
+ },
+ {
+  "mesh": "props_Medical",
+  "mat": "med_mattress_side",
+  "area": 0.024,
+  "depth": 0.52,
+  "at": [
+   -10.47,
+   -3.39
+  ]
+ },
+ {
+  "mesh": "objects_AdminHallway",
+  "mat": "obj_skeld_26_body",
+  "area": 0.024,
+  "depth": 0.17,
+  "at": [
+   0.57,
+   -6.81
+  ]
+ },
+ {
+  "mesh": "props_LifeSupport",
+  "mat": "o2_filter_dark",
+  "area": 0.022,
+  "depth": 0.19,
+  "at": [
+   5.88,
+   -3.29
+  ]
+ },
+ {
+  "mesh": "props_Medical",
+  "mat": "med_scan_mon_body",
+  "area": 0.022,
+  "depth": 0.17,
+  "at": [
+   -7.88,
+   -5.13
+  ]
+ },
+ {
+  "mesh": "props_LifeSupport",
+  "mat": "o2_fan_69_fan74_ring",
+  "area": 0.021,
+  "depth": 0.11,
+  "at": [
+   7.42,
+   -4.14
+  ]
+ },
+ {
+  "mesh": "props_Medical",
+  "mat": "med_bed_rail",
+  "area": 0.021,
+  "depth": 0.04,
+  "at": [
+   -10.56,
+   -2.11
+  ]
+ },
+ {
+  "mesh": "props_Medical",
+  "mat": "med_mattress_side",
+  "area": 0.021,
+  "depth": 0.04,
+  "at": [
+   -7.58,
+   -2.11
+  ]
+ },
+ {
+  "mesh": "props_Medical",
+  "mat": "med_bed_rail",
+  "area": 0.021,
+  "depth": 0.03,
+  "at": [
+   -7.57,
+   -2.11
+  ]
+ },
+ {
+  "mesh": "props_Medical",
+  "mat": "med_mattress_side",
+  "area": 0.021,
+  "depth": 0.04,
+  "at": [
+   -7.58,
+   -3.43
+  ]
+ },
+ {
+  "mesh": "props_Medical",
+  "mat": "med_bed_rail",
+  "area": 0.02,
+  "depth": 0.04,
+  "at": [
+   -10.55,
+   -3.43
+  ]
+ },
+ {
+  "mesh": "props_Medical",
+  "mat": "med_bed_rail",
+  "area": 0.02,
+  "depth": 0.03,
+  "at": [
+   -7.57,
+   -3.43
+  ]
+ },
+ {
+  "mesh": "objects_BigYHallway",
+  "mat": "obj_skeld_95_body",
+  "area": 0.02,
+  "depth": 0.13,
+  "at": [
+   13.26,
+   -4.57
+  ]
+ },
+ {
+  "mesh": "objects_NorthHallway",
+  "mat": "obj_skeld_154_body",
+  "area": 0.02,
+  "depth": 0.13,
+  "at": [
+   -7.15,
+   1.46
+  ]
+ },
+ {
+  "mesh": "objects_Storage",
+  "mat": "obj_skeld_131_body",
+  "area": 0.02,
+  "depth": 0.13,
+  "at": [
+   0.78,
+   -16.86
+  ]
+ },
+ {
+  "mesh": "props_Security",
+  "mat": "sec_servers_face",
+  "area": 0.019,
+  "depth": 0.83,
+  "at": [
+   -13.99,
+   -3.41
+  ]
+ },
+ {
+  "mesh": "props_Weapons",
+  "mat": "weap_seat_body",
+  "area": 0.019,
+  "depth": 0.11,
+  "at": [
+   8.89,
+   1.29
+  ]
+ },
+ {
+  "mesh": "objects_Storage",
+  "mat": "obj_skeld_135_edge",
+  "area": 0.019,
+  "depth": 0.07,
+  "at": [
+   -0.84,
+   -11.03
+  ]
+ },
+ {
+  "mesh": "props_LifeSupport",
+  "mat": "o2_filter_dark",
+  "area": 0.018,
+  "depth": 0.18,
+  "at": [
+   5.88,
+   -3.28
+  ]
+ },
+ {
+  "mesh": "props_LifeSupport",
+  "mat": "o2_fan_55_fan60_ring",
+  "area": 0.018,
+  "depth": 0.1,
+  "at": [
+   5.99,
+   -4.16
+  ]
+ },
+ {
+  "mesh": "objects_Storage",
+  "mat": "obj_skeld_135_body",
+  "area": 0.018,
+  "depth": 0.07,
+  "at": [
+   -0.84,
+   -11.03
+  ]
+ },
+ {
+  "mesh": "props_Cockpit",
+  "mat": "nav_chair_body",
+  "area": 0.017,
+  "depth": 0.11,
+  "at": [
+   17.45,
+   -3.97
+  ]
+ },
+ {
+  "mesh": "props_Cockpit",
+  "mat": "nav_chair_body",
+  "area": 0.017,
+  "depth": 0.14,
+  "at": [
+   17.86,
+   -4.62
+  ]
+ },
+ {
+  "mesh": "props_Cockpit",
+  "mat": "nav_chair_body",
+  "area": 0.017,
+  "depth": 0.11,
+  "at": [
+   17.87,
+   -4.59
+  ]
+ },
+ {
+  "mesh": "props_Cockpit",
+  "mat": "nav_chair_body",
+  "area": 0.016,
+  "depth": 0.11,
+  "at": [
+   17.56,
+   -6.37
+  ]
+ },
+ {
+  "mesh": "props_Cockpit",
+  "mat": "nav_chair_body",
+  "area": 0.015,
+  "depth": 0.17,
+  "at": [
+   17.54,
+   -6.42
+  ]
+ },
+ {
+  "mesh": "props_LifeSupport",
+  "mat": "o2_fan_41_fan46_ring",
+  "area": 0.015,
+  "depth": 0.16,
+  "at": [
+   4.66,
+   -4.16
+  ]
+ },
+ {
+  "mesh": "objects_Reactor",
+  "mat": "obj_skeld_115_body",
+  "area": 0.015,
+  "depth": 0.14,
+  "at": [
+   -22.45,
+   -2.64
+  ]
+ },
+ {
+  "mesh": "props_Admin",
+  "mat": "adm_chair_body",
+  "area": 0.014,
+  "depth": 0.03,
+  "at": [
+   3.64,
+   -7.03
+  ]
+ },
+ {
+  "mesh": "props_Admin",
+  "mat": "adm_chair_body",
+  "area": 0.014,
+  "depth": 0.03,
+  "at": [
+   4.64,
+   -7.03
+  ]
+ },
+ {
+  "mesh": "props_Admin",
+  "mat": "adm_chair_body",
+  "area": 0.014,
+  "depth": 0.03,
+  "at": [
+   5.66,
+   -7.03
+  ]
+ },
+ {
+  "mesh": "props_Weapons",
+  "mat": "weap_grip",
+  "area": 0.014,
+  "depth": 0.12,
+  "at": [
+   8.53,
+   1.41
+  ]
+ },
+ {
+  "mesh": "props_Weapons",
+  "mat": "weap_grip",
+  "area": 0.014,
+  "depth": 0.12,
+  "at": [
+   9.57,
+   1.41
+  ]
+ },
+ {
+  "mesh": "props_Weapons",
+  "mat": "weap_grip",
+  "area": 0.014,
+  "depth": 0.12,
+  "at": [
+   9.05,
+   1.01
+  ]
+ },
+ {
+  "mesh": "props_Medical",
+  "mat": "med_scan_steel",
+  "area": 0.012,
+  "depth": 0.1,
+  "at": [
+   -7.78,
+   -4.85
+  ]
+ },
+ {
+  "mesh": "props_Medical",
+  "mat": "med_scan_steel",
+  "area": 0.012,
+  "depth": 0.1,
+  "at": [
+   -6.92,
+   -4.85
+  ]
+ },
+ {
+  "mesh": "props_Security",
+  "mat": "sec_stool_side",
+  "area": 0.012,
+  "depth": 0.09,
+  "at": [
+   -12.6,
+   -5.77
+  ]
+ },
+ {
+  "mesh": "objects_Storage",
+  "mat": "obj_skeld_131_dark",
+  "area": 0.012,
+  "depth": 0.11,
+  "at": [
+   0.79,
+   -16.86
+  ]
+ }
+]

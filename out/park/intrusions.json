@@ -1,0 +1,52 @@
+[
+ {
+  "mesh": "park_rides",
+  "mat": "park_red",
+  "area": 5.212,
+  "depth": 6.24,
+  "at": [
+   -14.0,
+   1.5
+  ]
+ },
+ {
+  "mesh": "park_rides",
+  "mat": "park_cream",
+  "area": 4.822,
+  "depth": 6.2,
+  "at": [
+   -14.0,
+   1.5
+  ]
+ },
+ {
+  "mesh": "park_rides",
+  "mat": "park_cream",
+  "area": 2.034,
+  "depth": 2.4,
+  "at": [
+   11.8,
+   13.64
+  ]
+ },
+ {
+  "mesh": "atlas_props",
+  "mat": "am_park_7_rim",
+  "area": 0.105,
+  "depth": 0.19,
+  "at": [
+   17.2,
+   9.76
+  ]
+ },
+ {
+  "mesh": "atlas_props",
+  "mat": "am_park_7_cone",
+  "area": 0.066,
+  "depth": 0.15,
+  "at": [
+   17.2,
+   9.78
+  ]
+ }
+]

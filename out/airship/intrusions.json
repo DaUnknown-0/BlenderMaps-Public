@@ -1,0 +1,842 @@
+[
+ {
+  "mesh": "props_Ventilation",
+  "mat": "av_deck",
+  "area": 2.017,
+  "depth": 1.5,
+  "at": [
+   28.82,
+   -1.76
+  ]
+ },
+ {
+  "mesh": "props_Ventilation",
+  "mat": "av_deck",
+  "area": 1.532,
+  "depth": 1.22,
+  "at": [
+   25.99,
+   0.38
+  ]
+ },
+ {
+  "mesh": "props_Kitchen",
+  "mat": "kit_counter1_top",
+  "area": 0.446,
+  "depth": 0.95,
+  "at": [
+   -4.2,
+   -12.42
+  ]
+ },
+ {
+  "mesh": "props_Kitchen",
+  "mat": "kit_counter0_top",
+  "area": 0.443,
+  "depth": 0.95,
+  "at": [
+   -4.02,
+   -10.73
+  ]
+ },
+ {
+  "mesh": "props_Medbay",
+  "mat": "mb_bed_frame",
+  "area": 0.413,
+  "depth": 0.58,
+  "at": [
+   25.51,
+   -8.79
+  ]
+ },
+ {
+  "mesh": "props_Medbay",
+  "mat": "mb_bed",
+  "area": 0.384,
+  "depth": 0.53,
+  "at": [
+   25.52,
+   -8.78
+  ]
+ },
+ {
+  "mesh": "props_Kitchen",
+  "mat": "kit_counter1_body",
+  "area": 0.374,
+  "depth": 0.92,
+  "at": [
+   -4.2,
+   -12.45
+  ]
+ },
+ {
+  "mesh": "props_Kitchen",
+  "mat": "kit_counter0_body",
+  "area": 0.355,
+  "depth": 0.92,
+  "at": [
+   -4.03,
+   -10.79
+  ]
+ },
+ {
+  "mesh": "props_Showers",
+  "mat": "sh_bench0_leg",
+  "area": 0.25,
+  "depth": 0.1,
+  "at": [
+   21.83,
+   -0.25
+  ]
+ },
+ {
+  "mesh": "props_Showers",
+  "mat": "sh_bench0_seat",
+  "area": 0.244,
+  "depth": 0.1,
+  "at": [
+   21.83,
+   -0.25
+  ]
+ },
+ {
+  "mesh": "objects_Cockpit",
+  "mat": "obj_airship_7_body",
+  "area": 0.229,
+  "depth": 0.39,
+  "at": [
+   -23.53,
+   -0.1
+  ]
+ },
+ {
+  "mesh": "props_Medbay",
+  "mat": "mb_bed_frame",
+  "area": 0.224,
+  "depth": 0.39,
+  "at": [
+   23.8,
+   -8.76
+  ]
+ },
+ {
+  "mesh": "props_Armory",
+  "mat": "arm_case0_body",
+  "area": 0.223,
+  "depth": 0.14,
+  "at": [
+   -10.7,
+   -4.55
+  ]
+ },
+ {
+  "mesh": "props_Armory",
+  "mat": "arm_case0_glass",
+  "area": 0.223,
+  "depth": 0.14,
+  "at": [
+   -10.7,
+   -4.55
+  ]
+ },
+ {
+  "mesh": "props_Cockpit",
+  "mat": "vent_Cockpit_CockpitVent_frame",
+  "area": 0.219,
+  "depth": 0.4,
+  "at": [
+   -22.1,
+   -1.57
+  ]
+ },
+ {
+  "mesh": "props_Engine",
+  "mat": "vent_Engine_EngineVent_frame",
+  "area": 0.219,
+  "depth": 0.4,
+  "at": [
+   0.2,
+   -2.59
+  ]
+ },
+ {
+  "mesh": "props_GapRoom",
+  "mat": "vent_GapRoom_GaproomVent1_frame",
+  "area": 0.219,
+  "depth": 0.4,
+  "at": [
+   3.6,
+   6.87
+  ]
+ },
+ {
+  "mesh": "props_HallwayMain",
+  "mat": "vent_HallwayMain_HallwayVent1_frame",
+  "area": 0.219,
+  "depth": 0.4,
+  "at": [
+   7.02,
+   -3.78
+  ]
+ },
+ {
+  "mesh": "props_HallwayMain",
+  "mat": "vent_HallwayMain_HallwayVent2_frame",
+  "area": 0.219,
+  "depth": 0.4,
+  "at": [
+   9.81,
+   3.15
+  ]
+ },
+ {
+  "mesh": "props_Kitchen",
+  "mat": "vent_Kitchen_KitchenVent_frame",
+  "area": 0.219,
+  "depth": 0.4,
+  "at": [
+   -2.6,
+   -9.39
+  ]
+ },
+ {
+  "mesh": "props_Showers",
+  "mat": "vent_Showers_ShowersVent_frame",
+  "area": 0.219,
+  "depth": 0.4,
+  "at": [
+   23.99,
+   -1.44
+  ]
+ },
+ {
+  "mesh": "props_Storage",
+  "mat": "vent_Storage_StorageVent_frame",
+  "area": 0.219,
+  "depth": 0.4,
+  "at": [
+   30.44,
+   -3.63
+  ]
+ },
+ {
+  "mesh": "props_Vault",
+  "mat": "vent_Vault_VaultVent_frame",
+  "area": 0.219,
+  "depth": 0.4,
+  "at": [
+   -12.63,
+   8.42
+  ]
+ },
+ {
+  "mesh": "props_Armory",
+  "mat": "arm_case1_body",
+  "area": 0.209,
+  "depth": 0.13,
+  "at": [
+   -10.69,
+   -9.44
+  ]
+ },
+ {
+  "mesh": "props_Armory",
+  "mat": "arm_case1_glass",
+  "area": 0.209,
+  "depth": 0.13,
+  "at": [
+   -10.69,
+   -9.44
+  ]
+ },
+ {
+  "mesh": "objects_Cockpit",
+  "mat": "obj_airship_7_dark",
+  "area": 0.199,
+  "depth": 0.35,
+  "at": [
+   -23.54,
+   -0.1
+  ]
+ },
+ {
+  "mesh": "props_Medbay",
+  "mat": "mb_bed",
+  "area": 0.194,
+  "depth": 0.35,
+  "at": [
+   23.81,
+   -8.75
+  ]
+ },
+ {
+  "mesh": "objects_Cockpit",
+  "mat": "obj_airship_7_dark",
+  "area": 0.185,
+  "depth": 0.33,
+  "at": [
+   -23.54,
+   -0.09
+  ]
+ },
+ {
+  "mesh": "props_Vault",
+  "mat": "vault_pedestal",
+  "area": 0.157,
+  "depth": 0.59,
+  "at": [
+   -8.91,
+   9.01
+  ]
+ },
+ {
+  "mesh": "props_Medbay",
+  "mat": "mb_chair_body",
+  "area": 0.144,
+  "depth": 0.32,
+  "at": [
+   28.41,
+   -6.9
+  ]
+ },
+ {
+  "mesh": "props_Medbay",
+  "mat": "mb_chair_body",
+  "area": 0.133,
+  "depth": 0.32,
+  "at": [
+   29.82,
+   -6.89
+  ]
+ },
+ {
+  "mesh": "props_Showers",
+  "mat": "sh_bench2_leg",
+  "area": 0.132,
+  "depth": 0.18,
+  "at": [
+   17.94,
+   4.25
+  ]
+ },
+ {
+  "mesh": "props_Lounge",
+  "mat": "lo_lounge_pooltable2_wood",
+  "area": 0.123,
+  "depth": 0.12,
+  "at": [
+   25.9,
+   5.07
+  ]
+ },
+ {
+  "mesh": "props_Lounge",
+  "mat": "lo_lounge_pooltable1_wood",
+  "area": 0.11,
+  "depth": 0.1,
+  "at": [
+   25.92,
+   7.52
+  ]
+ },
+ {
+  "mesh": "props_Showers",
+  "mat": "sh_bench2_seat",
+  "area": 0.104,
+  "depth": 0.1,
+  "at": [
+   17.92,
+   4.23
+  ]
+ },
+ {
+  "mesh": "props_Medbay",
+  "mat": "mb_chair_dark",
+  "area": 0.101,
+  "depth": 0.32,
+  "at": [
+   28.41,
+   -6.92
+  ]
+ },
+ {
+  "mesh": "props_Records",
+  "mat": "rec_table_top",
+  "area": 0.098,
+  "depth": 0.26,
+  "at": [
+   19.88,
+   8.73
+  ]
+ },
+ {
+  "mesh": "props_Medbay",
+  "mat": "mb_chair_dark",
+  "area": 0.093,
+  "depth": 0.32,
+  "at": [
+   29.83,
+   -6.91
+  ]
+ },
+ {
+  "mesh": "props_Showers",
+  "mat": "sh_bench1_seat",
+  "area": 0.09,
+  "depth": 0.06,
+  "at": [
+   22.64,
+   -2.01
+  ]
+ },
+ {
+  "mesh": "props_Showers",
+  "mat": "sh_bench1_leg",
+  "area": 0.089,
+  "depth": 0.06,
+  "at": [
+   22.64,
+   -2.01
+  ]
+ },
+ {
+  "mesh": "props_Lounge",
+  "mat": "lo_lounge_pooltable1_wood",
+  "area": 0.084,
+  "depth": 0.08,
+  "at": [
+   25.92,
+   7.51
+  ]
+ },
+ {
+  "mesh": "props_Lounge",
+  "mat": "lo_lounge_pooltable2_wood",
+  "area": 0.084,
+  "depth": 0.08,
+  "at": [
+   25.9,
+   5.05
+  ]
+ },
+ {
+  "mesh": "props_Vault",
+  "mat": "vault_dummy",
+  "area": 0.067,
+  "depth": 0.26,
+  "at": [
+   -6.73,
+   7.17
+  ]
+ },
+ {
+  "mesh": "props_Vault",
+  "mat": "vault_dummy",
+  "area": 0.067,
+  "depth": 0.26,
+  "at": [
+   -6.7,
+   9.71
+  ]
+ },
+ {
+  "mesh": "props_Vault",
+  "mat": "vault_dummy",
+  "area": 0.067,
+  "depth": 0.26,
+  "at": [
+   -7.44,
+   10.46
+  ]
+ },
+ {
+  "mesh": "objects_Cockpit",
+  "mat": "obj_airship_9_body",
+  "area": 0.057,
+  "depth": 0.2,
+  "at": [
+   -22.14,
+   0.74
+  ]
+ },
+ {
+  "mesh": "props_Medbay",
+  "mat": "mb_chair_body",
+  "area": 0.053,
+  "depth": 0.11,
+  "at": [
+   27.85,
+   -6.78
+  ]
+ },
+ {
+  "mesh": "props_Medbay",
+  "mat": "mb_chair_body",
+  "area": 0.053,
+  "depth": 0.11,
+  "at": [
+   28.4,
+   -6.78
+  ]
+ },
+ {
+  "mesh": "props_Medbay",
+  "mat": "mb_chair_body",
+  "area": 0.053,
+  "depth": 0.11,
+  "at": [
+   29.85,
+   -6.78
+  ]
+ },
+ {
+  "mesh": "props_Cockpit",
+  "mat": "cp_chair_body",
+  "area": 0.048,
+  "depth": 0.51,
+  "at": [
+   -19.0,
+   -0.83
+  ]
+ },
+ {
+  "mesh": "props_Medbay",
+  "mat": "mb_chair_body",
+  "area": 0.045,
+  "depth": 0.14,
+  "at": [
+   27.86,
+   -6.79
+  ]
+ },
+ {
+  "mesh": "props_Vault",
+  "mat": "vault_hat_1",
+  "area": 0.045,
+  "depth": 0.19,
+  "at": [
+   -6.73,
+   7.17
+  ]
+ },
+ {
+  "mesh": "props_Vault",
+  "mat": "vault_hat_2",
+  "area": 0.045,
+  "depth": 0.19,
+  "at": [
+   -6.7,
+   9.7
+  ]
+ },
+ {
+  "mesh": "props_Vault",
+  "mat": "vault_hat_3",
+  "area": 0.045,
+  "depth": 0.19,
+  "at": [
+   -7.44,
+   10.46
+  ]
+ },
+ {
+  "mesh": "objects_Cockpit",
+  "mat": "obj_airship_9_dark",
+  "area": 0.042,
+  "depth": 0.18,
+  "at": [
+   -22.13,
+   0.75
+  ]
+ },
+ {
+  "mesh": "props_Security",
+  "mat": "sec_cams_body",
+  "area": 0.04,
+  "depth": 0.13,
+  "at": [
+   7.93,
+   -10.11
+  ]
+ },
+ {
+  "mesh": "props_GapRoom",
+  "mat": "gap_back_side",
+  "area": 0.039,
+  "depth": 0.04,
+  "at": [
+   15.62,
+   9.68
+  ]
+ },
+ {
+  "mesh": "props_GapRoom",
+  "mat": "gap_wall",
+  "area": 0.039,
+  "depth": 0.04,
+  "at": [
+   15.62,
+   9.68
+  ]
+ },
+ {
+  "mesh": "props_Kitchen",
+  "mat": "kit_counter0_hob",
+  "area": 0.037,
+  "depth": 0.73,
+  "at": [
+   -3.39,
+   -10.83
+  ]
+ },
+ {
+  "mesh": "objects_Cockpit",
+  "mat": "obj_airship_9_dark",
+  "area": 0.035,
+  "depth": 0.16,
+  "at": [
+   -22.13,
+   0.75
+  ]
+ },
+ {
+  "mesh": "props_Kitchen",
+  "mat": "kit_counter1_hob",
+  "area": 0.033,
+  "depth": 0.04,
+  "at": [
+   -3.55,
+   -12.59
+  ]
+ },
+ {
+  "mesh": "props_Lounge",
+  "mat": "lo_lounge_pooltable2_felt",
+  "area": 0.033,
+  "depth": 0.04,
+  "at": [
+   25.9,
+   5.11
+  ]
+ },
+ {
+  "mesh": "props_Medbay",
+  "mat": "mb_chair_body",
+  "area": 0.031,
+  "depth": 0.09,
+  "at": [
+   30.39,
+   -6.75
+  ]
+ },
+ {
+  "mesh": "props_Kitchen",
+  "mat": "kit_shelf_body",
+  "area": 0.028,
+  "depth": 0.15,
+  "at": [
+   -8.37,
+   -8.54
+  ]
+ },
+ {
+  "mesh": "props_Kitchen",
+  "mat": "kit_shelf_body",
+  "area": 0.028,
+  "depth": 0.15,
+  "at": [
+   -8.37,
+   -8.54
+  ]
+ },
+ {
+  "mesh": "props_Kitchen",
+  "mat": "kit_shelf_body",
+  "area": 0.028,
+  "depth": 0.15,
+  "at": [
+   -8.37,
+   -8.54
+  ]
+ },
+ {
+  "mesh": "props_Records",
+  "mat": "rec_chair_body",
+  "area": 0.026,
+  "depth": 0.38,
+  "at": [
+   18.83,
+   9.32
+  ]
+ },
+ {
+  "mesh": "props_Records",
+  "mat": "rec_chair_body",
+  "area": 0.026,
+  "depth": 0.38,
+  "at": [
+   20.93,
+   9.32
+  ]
+ },
+ {
+  "mesh": "props_Engine",
+  "mat": "eng_base",
+  "area": 0.025,
+  "depth": 0.3,
+  "at": [
+   -5.93,
+   0.36
+  ]
+ },
+ {
+  "mesh": "props_Cockpit",
+  "mat": "cp_chair_body",
+  "area": 0.022,
+  "depth": 0.11,
+  "at": [
+   -18.83,
+   -0.83
+  ]
+ },
+ {
+  "mesh": "props_Lounge",
+  "mat": "lo_lounge_pooltable1_felt",
+  "area": 0.022,
+  "depth": 0.02,
+  "at": [
+   25.92,
+   7.56
+  ]
+ },
+ {
+  "mesh": "props_Records",
+  "mat": "rec_chair_body",
+  "area": 0.022,
+  "depth": 0.11,
+  "at": [
+   18.77,
+   9.28
+  ]
+ },
+ {
+  "mesh": "props_Vault",
+  "mat": "vault_ruby",
+  "area": 0.022,
+  "depth": 0.21,
+  "at": [
+   -8.89,
+   8.99
+  ]
+ },
+ {
+  "mesh": "props_Vault",
+  "mat": "vault_dummy_mid",
+  "area": 0.022,
+  "depth": 0.09,
+  "at": [
+   -6.73,
+   7.29
+  ]
+ },
+ {
+  "mesh": "props_Vault",
+  "mat": "vault_dummy_mid",
+  "area": 0.022,
+  "depth": 0.09,
+  "at": [
+   -6.7,
+   9.82
+  ]
+ },
+ {
+  "mesh": "props_Vault",
+  "mat": "vault_dummy_mid",
+  "area": 0.022,
+  "depth": 0.09,
+  "at": [
+   -7.44,
+   10.57
+  ]
+ },
+ {
+  "mesh": "props_Medbay",
+  "mat": "mb_chair_dark",
+  "area": 0.02,
+  "depth": 0.1,
+  "at": [
+   27.86,
+   -6.8
+  ]
+ },
+ {
+  "mesh": "props_Medbay",
+  "mat": "mb_chair_body",
+  "area": 0.02,
+  "depth": 0.07,
+  "at": [
+   30.38,
+   -6.77
+  ]
+ },
+ {
+  "mesh": "props_Records",
+  "mat": "rec_chair_body",
+  "area": 0.02,
+  "depth": 0.11,
+  "at": [
+   21.02,
+   9.27
+  ]
+ },
+ {
+  "mesh": "props_GapRoom",
+  "mat": "gap_rface_side",
+  "area": 0.017,
+  "depth": 0.04,
+  "at": [
+   10.8,
+   7.72
+  ]
+ },
+ {
+  "mesh": "props_Armory",
+  "mat": "arm_case0_glass",
+  "area": 0.015,
+  "depth": 0.01,
+  "at": [
+   -10.7,
+   -4.61
+  ]
+ },
+ {
+  "mesh": "props_Armory",
+  "mat": "arm_case1_glass",
+  "area": 0.015,
+  "depth": 0.01,
+  "at": [
+   -10.69,
+   -9.5
+  ]
+ },
+ {
+  "mesh": "props_Showers",
+  "mat": "sh_bench2_seat",
+  "area": 0.011,
+  "depth": 0.06,
+  "at": [
+   18.16,
+   4.32
+  ]
+ },
+ {
+  "mesh": "props_Records",
+  "mat": "rec_chair_dark",
+  "area": 0.01,
+  "depth": 0.14,
+  "at": [
+   18.88,
+   9.37
+  ]
+ }
+]
